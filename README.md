@@ -6,7 +6,20 @@ soon
 
 ## How to use
 
-soon
+For the raw text, it is required to run [SMA](https://github.com/machinereading/SMA-Korean) morphological analyzer
+
+For the result of SMA:
+
+```
+./TransFormToJuman.o -i "SMA 분석결과 파일" -o "출력결과 파일" -punc
+```
+
+For the result of depenency parser:
+```
+./knp.baseline.sh "output.file"
+```
+
+`Output file: output.file.out.xml`
 
 ## Licenses
 
