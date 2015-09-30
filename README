@@ -1,0 +1,145 @@
+=================================================
+KNP++: Language-independent Knowledge-rich Parser
+=================================================
+
+2012/12/04 Daisuke Kawahara <dk@i.kyoto-u.ac.jp>
+
+
+This parser can perform dependency/predicate-argument/coordination
+analysis based on rich lexical knowledge bases.
+
+
+How to start
+------------
+
+1. Extract dependency rules and probabilities from a treebank.
+
+   See the following section.
+
+2. Extract case frames from automatic parses of a raw corpus.
+
+3. make
+
+4. ./knp++ < input
+
+   If the input is phrase sequence like Korean, specify "-i 2" option.
+   If you use the pre-compiled rules and dictionaries for Korean, type
+   as follows:
+
+   ./knp++ -i 2 -o xml -r rule/korean -d dic/korean < input
+
+
+Extraction of dependency rules and probabilities form a treebank
+----------------------------------------------------------------
+
+First, it is necessary to have a treebank in an XML format. Its sample
+can be found in the "sample" directory. For Japanese, it is
+"sample/japanese_sample.xml". The format is as follows:
+
+  <StandardFormat> : whole data
+  <Text>           : text data including multiple sentences
+  <S>              : a sentence
+  <Annotation>     : an annotation of a sentence
+  <phrase>         : a phrase (which consists of a content word and 0 or more function words)
+     id            : phrase ID (0 origin)
+     head          : the ID of its head
+     feature       : some features
+     dpndtype      : the type of dependency
+  <word>           : a word
+     id            : word ID (0 origin)
+     content_p	   : 1 if it is a content word
+     str	   : string
+     lem	   : lemma
+     read	   : reading
+     pos	   : POS
+     repname	   : representative form
+     conj	   : conjugation
+     feature	   : some features
+
+Then, execute the following command (in this case, the input file is
+"sample/japanese_sample.xml"):
+
+   % perl -I perl script/sf2dependency_possibility.perl --outdir rule sample/japanese_sample.xml 2> dic/case.prob
+
+If you want to ignore punctuation POS for rules, it is necessary to
+specify the POS of punctuation in the treebank. For Japanese, the
+above command should be:
+
+   % perl -I perl script/sf2dependency_possibility.perl --outdir rule --punctuation '特殊' sample/japanese_sample.xml 2> dic/case.prob
+
+As a result, two rule files ("rule/phrase_basic.rule" and "rule/dependency.rule")
+and a probability file ("dic/case.prob") are obtained.
+
+
+Extraction of case frames from automatic parses of a raw corpus
+---------------------------------------------------------------
+
+It is necessary to make case frames in an XML format. Its sample is
+"sample/cf_japanese_sample.xml". The format is as follows:
+
+  <caseframedata> : whole data
+  <entry>	  : data for a predicate (consists of multiple case frames)
+     headword	  : headword
+     predtype	  : the type of predicate (verb, adjective and noun+copula)
+  <caseframe>	  : a case frame
+     id		  : case frame ID
+  <argument>	  : an argument
+     case	  : case of the argument
+     closest	  : 1 if the argument is adjacent to the predicate
+  <component>	  : a case component
+     frequency	  : frequency of the case component
+
+The file that KNP++ uses is "dic/cf.knpdict". It is possible to
+convert the XML format to "dic/cf.knpdict" by the following command:
+
+   % perl script/cf-xml2knpdict.perl sample/cf_japanese_sample.xml > dic/cf.knpdict
+
+
+List modifier POS that is not found in dependency rules
+-------------------------------------------------------
+
+If the coverage of dependency rules is low, it is necessary to examine
+modifier POS that is not found in dependency rules. You can list it by
+the following command:
+
+   % script/check-input-and-rules.sh output_MorphAnalyzerToJuman.txt
+
+The resulting list is sorted by the frequency of modifier POS.
+
+
+Input format
+------------
+
+The encoding is UTF-8. The following is an example of "部屋にはいる".
+The first four digits mean
+
+  morpheme ID, 
+  morpheme IDs to which this morpheme can connect, 
+  starting byte in input string, and
+  ending byte in input string.
+
+The remaining part is the same as normal JUMAN output.
+
+---
+2 0 0 6 部屋 へや 部屋 名詞 6 普通名詞 1 * 0 * 0 "代表表記:部屋/へや カテゴリ:場所-施設 ドメイン:家庭・暮らし"
+15 2 6 9 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+16 2 6 9 に に に 助詞 9 接続助詞 3 * 0 * 0 NIL
+36 15;16 9 12 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+53 15 9 18 はいる はいる はいる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 "代表表記:入る/はいる 自他動詞:他:入れる/いれる 反義:動詞:出る/でる"
+69 36 12 18 いる いる いる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 "代表表記:煎る/いる ドメイン:料理・食事"
+71 36 12 18 いる いる いる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 "代表表記:要る/いる"
+73 36 12 18 いる いる いる 動詞 2 * 0 母音動詞 1 基本形 2 "代表表記:射る/いる"
+78 36 12 18 いる いる いる 動詞 2 * 0 母音動詞 1 基本形 2 "代表表記:居る/いる"
+83 36 12 18 いる いる いる 動詞 2 * 0 母音動詞 1 基本形 2 "代表表記:鋳る/いる"
+EOS
+---
+
+For Japanese, this format can be produced by "juman -m -E".
+
+
+Authors
+-------
+
+Daisuke Kawahara <dk@i.kyoto-u.ac.jp>
+Mo Shen <shen@nlp.ist.i.kyoto-u.ac.jp>
+Sadao Kurohashi <kuro@i.kyoto-u.ac.jp>

@@ -1,0 +1,2088 @@
+0 2 알+은 NNP+JX ARG-이,ARG-을
+2 5 어디+에 NP+JKB ARG-에
+5 8 있+어+? VV+EF+SF PRED:있
+EOS
+0 3 그런데 MAJ
+3 5 오늘 NNG
+5 8 오후+에 NNG+JKB ARG-에
+8 11 만나+ㄴ VV+ETM
+11 13 분+이 NNB+JKS ARG-이
+13 16 이모+가 NNG+JKS ARG-이
+16 18 맞+는 VV+ETM
+18 19 것 NNB
+19 22 같+대+. VA+EF+SF PRED:같
+EOS
+0 2 모두 MAG
+2 9 돌아가+시+었+대+. VV+EP+EP+EF+SF PRED:돌아가
+EOS
+0 2 그분 NP
+2 4 알+을 NNP+JKO ARG-을
+4 9 보+시+자마자 VV+EP+EC PRED:보
+9 10 막 MAG
+10 16 울+시+더라구+. VV+EP+EF+SF PRED:울
+EOS
+0 2 알+을 NNP+JKO ARG-을
+2 5 낳+다가 VV+EC PRED:낳
+5 9 어머니+는 NNG+JX ARG-이,ARG-을
+9 15 돌아가+시+고+, VV+EP+EC+SP PRED:돌아가
+15 17 얼마 NNG
+17 20 있+다가 VV+EC PRED:있
+20 24 아버지+도 NNG+JX ARG-이,ARG-을
+24 27 사고+를 NNG+JKO ARG-을
+27 33 당하+시+었+대+. VV+EP+EP+EF+SF PRED:당하
+EOS
+0 1 그 MM
+1 3 후+로 NNG+JKB ARG-로
+3 5 오래 MAG
+5 6 못 MAG
+6 11 버티+시+었+나 VV+EP+EP+EC PRED:버티
+11 14 보+아+. VV+EF+SF PRED:보
+EOS
+0 2 알+은 NNP+JX ARG-이,ARG-을
+2 3 꽤 MAG
+3 6 담담히 MAG
+6 7 그 MM
+7 10 사실+을 NNG+JKO ARG-을
+10 17 받아들이+었+어+. VV+EP+EF+SF PRED:받아들이
+EOS
+0 5 버리+어+지+ㄴ VV+EC+VX+ETM PRED:버리
+5 7 것+이 NNB+JKC ARG-이
+7 11 아니+라는 VCN+ETM
+11 13 것+ㄹ NNB+JKO ARG-을
+13 17 알+았+으니 VV+EP+EC PRED:알
+17 20 그것+로 NP+JKB ARG-로
+20 24 족하+대+. VA+EF+SF PRED:족하
+EOS
+0 3 그리고 MAJ
+3 9 양부모+님+과+도 NNG+XSN+JKB+JX ARG-이,ARG-을
+9 17 화해+하+았+으니까+. NNG+XSV+EP+EF+SF PRED:화해하
+EOS
+0 5 잘+되+었+다+. MAG+XSV+EP+EF+SF PRED:잘되
+EOS
+0 4 지은+아+, NNP+JKV+SP
+4 7 꼭+…+… MAG+SE+SE
+7 12 행복+하+아야 NNG+XSA+EC PRED:행복하
+12 15 되+어+. VV+EF+SF PRED:되
+EOS
+0 3 드레스 NNG
+3 5 보+ㄹ VV+ETM
+5 9 것+이+ㄴ데 NNB+VCP+EC PRED:것이
+9 11 같이 MAG
+11 14 가+자+. VV+EF+SF PRED:가
+EOS
+0 1 너 NP
+1 8 들러리+이+잖아+. NNG+VCP+EF+SF PRED:들러리이
+EOS
+0 3 들러리 NNG
+3 7 드레스+도 NNG+JX ARG-이,ARG-을
+7 10 예쁘+ㄴ VA+ETM
+10 13 것+으로 NNB+JKB ARG-으로
+13 15 하나 NR
+15 19 고르+고+. VV+EF+SF PRED:고르
+EOS
+0 3 그런데 MAJ
+3 7 들러리+가 NNG+JKS ARG-이
+7 10 그렇+게 VA+EC PRED:그렇
+10 14 마르+아서 VV+EC PRED:마르
+14 19 어떡하+냐+? VV+EF+SF PRED:어떡하
+EOS
+0 2 빨리 MAG
+2 5 열심히 MAG
+5 7 먹+고 VV+EC PRED:먹
+7 8 살 NNG
+8 9 좀 MAG
+9 14 찌우+어라+. VV+EF+SF PRED:찌우
+EOS
+0 2 한+번 MM+NNB
+2 8 하+아+보+ㄹ게+. VV+EC+VX+EF+SF PRED:하
+EOS
+0 4 피곤+하+ㄹ NNG+XSV+ETM
+4 8 터+이+ㄴ데 NNB+VCP+EC PRED:터이
+8 11 쉬+어+. VV+EF+SF PRED:쉬
+EOS
+0 2 너+도 NP+JX ARG-이,ARG-을
+2 3 잘 MAG
+3 6 자+아+. VV+EF+SF PRED:자
+EOS
+0 3 어렵+게 VA+EC PRED:어렵
+3 7 승낙+받+은 NNG+VV+ETM
+7 10 결혼+을 NNG+JKO ARG-을
+10 14 기다리+고 VV+EC PRED:기다리
+14 16 있+는 VX+ETM
+16 19 지은+은 NNP+JX ARG-이,ARG-을
+19 21 무척 MAG
+21 25 행복+하+아 NNG+XSA+EC PRED:행복하
+25 30 보이+었+다+. VV+EP+EF+SF PRED:보이
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 4 이미 MAG
+4 8 그녀+에게 NP+JKB ARG-에게
+8 12 공기+와+도 NNG+JKB+JX ARG-이,ARG-을
+12 14 같+은 VA+ETM
+14 20 존재+이+었+다+. NNG+VCP+EP+EF+SF PRED:존재이
+EOS
+0 3 그녀+는 NP+JX ARG-이,ARG-을
+3 5 이제 MAG
+5 8 더+이상 MAG+NNG
+8 14 셰익스피어+의 NNP+JKG
+14 33 *SQUOTE*+햄릿+*SQUOTE*+에 SS+NNP+SS+JKB ARG-에
+33 37 예전+처럼 NNG+JKB ARG-처럼
+37 41 집착+하+지 NNG+XSV+EC PRED:집착하
+41 45 않+았+다+. VX+EP+EF+SF PRED:않
+EOS
+0 3 아무런 MM
+3 6 감정+도 NNG+JX ARG-이,ARG-을
+6 8 들+지 VV+EC PRED:들
+8 12 않+았+다+. VX+EP+EF+SF PRED:않
+EOS
+0 3 그녀+는 NP+JX ARG-이,ARG-을
+3 6 현실+의 NNG+JKG
+6 9 햄릿+을 NNP+JKO ARG-을
+9 14 원하+았+다+. VV+EP+EF+SF PRED:원하
+EOS
+0 4 아무래도 MAG
+4 7 정신과 NNG
+7 12 상담+이+라도 NNG+VCP+EC PRED:상담이
+12 15 받+아야 VV+EC PRED:받
+15 17 하+는 VX+ETM
+17 22 것+이+ㄹ까+? NNB+VCP+EF+SF PRED:것이
+EOS
+0 4 이러+다가 VV+EC PRED:이러
+4 9 정신+병원+에 NNG+NNG+JKB ARG-에
+9 13 끌려가+기 VV+ETN
+13 14 딱 MAG
+14 19 알맞+겠+군+. VA+EP+EF+SF PRED:알맞
+EOS
+0 3 찬물+로 NNG+JKB ARG-로
+3 6 얼굴+을 NNG+JKO ARG-을
+6 8 씻+은 VV+ETM
+8 11 규혁+은 NNP+JX ARG-이,ARG-을
+11 14 정신+이 NNG+JKS ARG-이
+14 15 좀 MAG
+15 17 들+자 VV+EC PRED:들
+17 20 집+안+을 NNG+NNG+JKO ARG-을
+20 26 둘러보+았+다+. VV+EP+EF+SF PRED:둘러보
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 5 거실+로 NNG+JKB ARG-로
+5 9 걸어가+아 VV+EC PRED:걸어가
+9 12 창문+을 NNG+JKO ARG-을
+12 19 열+어+제치+었+다+. VV+EC+VV+EP+EF+SF PRED:열
+EOS
+0 4 11+월+의 SN+NNB+JKG
+4 8 싸늘+하+ㄴ XR+XSA+ETM
+8 11 공기+가 NNG+JKS ARG-이
+11 15 텁텁+하+ㄴ XR+XSA+ETM
+15 18 실내+로 NNG+JKB ARG-로
+18 26 흘러들+어+오+았+다+. VV+EC+VX+EP+EF+SF PRED:흘러들
+EOS
+0 3 바닥+에 NNG+JKB ARG-에
+3 8 굴러다니+고 VV+EC PRED:굴러다니
+8 11 있+는+, VX+ETM+SP
+11 15 담뱃재+와 NNG+JC
+15 18 꽁초+가 NNG+JKS ARG-이
+18 22 가득+하+ㄴ MAG+XSA+ETM
+22 26 재떨이+가 NNG+JKS ARG-이
+26 28 눈+에 NNG+JKB ARG-에
+28 34 들어오+았+다+. VV+EP+EF+SF PRED:들어오
+EOS
+0 2 대학 NNG
+2 5 졸업+과 NNG+JKB ARG-과
+5 7 함께 MAG
+7 10 끊+었+던 VV+EP+ETM PRED:끊
+10 13 담배+를 NNG+JKO ARG-을
+13 15 다시 MAG
+15 18 피우+기 VV+ETN
+18 22 시작+하+ㄴ NNG+XSV+ETM
+22 26 것+이+다+. NNB+VCP+EF+SF PRED:것이
+EOS
+0 3 눈살+을 NNG+JKO ARG-을
+3 9 찌푸리+었+지만 VV+EP+EC PRED:찌푸리
+9 12 가슴+이 NNG+JKS ARG-이
+12 18 답답+하+아+지+자 XR+XSA+EC+VX+EC PRED:답답하
+18 21 담배+를 NNG+JKO ARG-을
+21 24 가지+러 VV+EC PRED:가지
+24 27 방+안+에 NNG+NNG+JKB ARG-에
+27 33 들어가+았+다+. VV+EP+EF+SF PRED:들어가
+EOS
+0 4 심장병+이 NNG+JKC ARG-이
+4 9 아니+ㄹ까+? VCN+EF+SF PRED:아니
+EOS
+0 3 가슴+이 NNG+JKS ARG-이
+3 7 답답+하+고 XR+XSA+EC PRED:답답하
+7 10 매사+에 NNG+JKB ARG-에
+10 13 의욕+이 NNG+JKS ARG-이
+13 16 생기+지 VV+EC PRED:생기
+16 20 않+아요+. VX+EF+SF PRED:않
+EOS
+0 1 다 MAG
+1 4 귀찮+고 VA+EC PRED:귀찮
+4 6 자꾸 MAG
+6 7 한 MM
+7 10 여자+만 NNG+JX ARG-이,ARG-을
+10 15 생각나+요+. VV+EF+SF PRED:생각나
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 5 정신+과 NNG+JC
+5 9 의사+에게 NNG+JKB ARG-에게
+9 14 상담+하+듯이 NNG+XSV+EC PRED:상담하
+14 17 속+으로 NNG+JKB ARG-으로
+17 24 중얼거리+었+다+. VV+EP+EF+SF PRED:중얼거리
+EOS
+0 2 어떤 MM
+2 9 여자+이+냐구요+? NNG+VCP+EF+SF PRED:여자이
+EOS
+0 4 쪼그맣+고 VA+EC PRED:쪼그맣
+4 8 아기+처럼 NNG+JKB ARG-처럼
+8 13 생기+었+지만 VV+EP+EC PRED:생기
+13 17 섹시+하+ㄴ NNG+XSA+ETM
+17 22 여우+이+죠+. NNG+VCP+EF+SF PRED:여우이
+EOS
+0 4 아무래도 MAG
+4 6 내+가 NP+JKS ARG-이
+6 11 구미호+한테 NNG+JKB ARG-한테
+11 15 홀리+었+나 VV+EP+EC PRED:홀리
+15 19 보+아요+. VX+EF+SF PRED:보
+EOS
+0 3 자신+의 NNG+JKG
+3 5 말+에 NNG+JKB ARG-에
+5 8 스스로 MAG
+8 10 기+가 NNG+JKS ARG-이
+10 13 막히+어 VV+EC PRED:막히
+13 17 코웃음+이 NNG+JKS ARG-이
+17 22 나오+았+다+. VV+EP+EF+SF PRED:나오
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 6 방바닥+에 NNG+JKB ARG-에
+6 10 펼쳐지+어 VV+EC PRED:펼쳐지
+10 12 있+는 VX+ETM
+12 15 잡지+를 NNG+JKO ARG-을
+15 19 보+았+다+. VV+EP+EF+SF PRED:보
+EOS
+0 3 연극+과 NNG+JC
+3 6 영화+를 NNG+JKO ARG-을
+6 9 다루+는 VV+ETM
+9 12 잡지+에 NNG+JKB ARG-에
+12 15 경지+가 NNP+JKS ARG-이
+15 20 나오+았+다+. VV+EP+EF+SF PRED:나오
+EOS
+0 3 그녀+는 NP+JX ARG-이,ARG-을
+3 8 에메랄드+색 NNG+NNG
+8 10 여름 NNG
+10 13 정장+을 NNG+JKO ARG-을
+13 16 입+고+, VV+EC+SP PRED:입
+16 20 머리칼+을 NNG+JKO ARG-을
+20 23 올리+어 VV+EC PRED:올리
+23 25 묶+고 VV+EC PRED:묶
+25 29 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 3 그 MM
+3 4 날 NNG
+4 7 그녀+의 NP+JKG
+7 10 모습+을 NNG+JKO ARG-을
+10 14 기억+하+고 NNG+XSV+EC PRED:기억하
+14 18 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 4 아니*+, MAG+SP
+4 6 잊+을 VV+ETM
+6 8 수+가 NNB+JKS ARG-이
+8 12 없+었+다+. VA+EP+EF+SF PRED:없
+EOS
+0 1 그 MM
+1 4 녀석+과 NNB+JKB ARG-과
+4 7 나란히 MAG
+7 9 웃+고 VV+EC PRED:웃
+9 11 있+는 VX+ETM
+11 13 것+을 NNB+JKO ARG-을
+13 15 직접 MAG
+15 23 목격+하+았+으니까+. NNG+XSV+EP+EF+SF PRED:목격하
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 4 벌떡 MAG
+4 8 일어나+아 VV+EC PRED:일어나
+8 11 방+안+을 NNG+NNG+JKO ARG-을
+11 17 서성이+었+다+. VV+EP+EF+SF PRED:서성이
+EOS
+0 3 그녀+의 NP+JKG
+3 5 방+은 NNG+JX ARG-이,ARG-을
+5 8 그녀+가 NP+JKS ARG-이
+8 10 짐+을 NNG+JKO ARG-을
+10 12 들+고 VV+EC PRED:들
+12 15 나가+ㄴ VX+ETM
+15 17 상태 NNG
+17 20 그대로 MAG
+20 24 있+었+다+. VV+EP+EF+SF PRED:있
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 5 그녀+의 NP+JKG
+5 8 방문+을 NNG+JKO ARG-을
+8 10 열+어 VV+EC PRED:열
+10 14 보+지+도+, VX+EC+JX+SP PRED:보
+14 18 치우+지+도 VV+EC+JX PRED:치우
+18 20 않+고 VX+EC PRED:않
+20 23 그대로 MAG
+23 27 두+었+다+. VV+EP+EF+SF PRED:두
+EOS
+0 3 짜증+이 NNG+JKS ARG-이
+3 7 나+았+다+. VV+EP+EF+SF PRED:나
+EOS
+0 2 모든 MM
+2 4 것+이 NNB+JKS ARG-이
+4 6 그+를 NP+JKO ARG-을
+6 10 짜증+나+게 NNG+VV+EC PRED:나
+10 14 하+았+다+. VX+EP+EF+SF PRED:하
+EOS
+0 1 꼭 MAG
+1 5 마누라+가 NNG+JKS ARG-이
+5 7 집+을 NNG+JKO ARG-을
+7 10 나가+ㄴ VV+ETM
+10 13 것+처럼 NNB+JKB ARG-처럼
+13 15 굴+고 VV+EC PRED:굴
+15 19 있+잖아+. VV+EF+SF PRED:있
+EOS
+0 3 최경지 NNP
+3 6 때문+에 NNB+JKB ARG-에
+6 8 모든 MM
+8 10 것+이 NNB+JKS ARG-이
+10 13 엉망+이 NNG+JKC ARG-이
+13 20 되+어+버리+었+다+. VV+EC+VX+EP+EF+SF PRED:되
+EOS
+0 5 회사+에서+도 NNG+JKB+JX ARG-이,ARG-을
+5 7 거의 MAG
+7 9 매일 MAG
+9 13 신경질+을 NNG+JKO ARG-을
+13 16 부리+기 VV+ETN
+16 20 때문+에+, NNB+JKB+SP ARG-에
+20 24 직원+들+도 NNG+XSN+JX ARG-이,ARG-을
+24 26 아예 MAG
+26 28 그+를 NP+JKO ARG-을
+28 37 포기+하+아+버리+었+다+. NNG+XSV+EC+VX+EP+EF+SF PRED:포기하
+EOS
+0 2 단지 MAG
+2 7 최경지+에게 NNP+JKB ARG-에게
+7 9 무척 MAG
+9 11 화+가 NNG+JKS ARG-이
+11 14 나+았+을 VV+EP+ETM PRED:나
+14 18 뿐+이+다+. NNB+VCP+EF+SF PRED:뿐이
+EOS
+0 3 맞+아+. VV+EF+SF PRED:맞
+EOS
+0 2 나+ㄴ NP+JX ARG-이,ARG-을
+2 4 지금 MAG
+4 6 기분 NNG
+6 9 나쁘+고 VA+EC PRED:나쁘
+9 11 화+가 NNG+JKS ARG-이
+11 13 나+ㄴ VV+ETM
+13 14 것 NNB
+14 18 뿐+이+야+. NNB+VCP+EF+SF PRED:뿐이
+EOS
+0 4 달라지+ㄴ VV+ETM
+4 6 것+ㄴ NNB+JX ARG-이,ARG-을
+6 9 없+어+! VA+EF+SF PRED:없
+EOS
+0 3 도장+을 NNG+JKO ARG-을
+3 6 찍+듯이 VV+EC PRED:찍
+6 11 스스로+에게 NNG+JKB ARG-에게
+11 15 다짐+하+던 NNG+XSV+ETM
+15 17 그+는 NP+JX ARG-이,ARG-을
+17 21 인터폰+이 NNG+JKS ARG-이
+21 24 울리+자 VV+EC PRED:울리
+24 28 현관+으로 NNG+JKB ARG-으로
+28 35 걷+어+나가+았+다+. VV+EC+VX+EP+EF+SF PRED:걷
+EOS
+0 8 *DQUOTE* SS
+8 11 진규혁 NNP
+11 13 씨+, NNB+SP
+13 15 등기 NNG
+15 19 우편물+이 NNG+JKS ARG-이
+19 25 오+았+습니다+. VV+EP+EF+SF PRED:오
+25 33 *DQUOTE* SS
+EOS
+0 2 수위 NNG
+2 9 아저씨+이+었+다+. NNG+VCP+EP+EF+SF PRED:아저씨이
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 5 도장+을 NNG+JKO ARG-을
+5 8 챙기+어 VV+EC PRED:챙기
+8 10 들+고 VV+EC PRED:들
+10 13 계단+을 NNG+JKO ARG-을
+13 19 내려가+았+다+. VV+EP+EF+SF PRED:내려가
+EOS
+0 4 우편물+은 NNG+JX ARG-이,ARG-을
+4 11 작은누나+에게서 NNG+JKB ARG-에게서
+11 13 오+ㄴ VV+ETM
+13 18 것+이+었+다+. NNB+VCP+EP+EF+SF PRED:것이
+EOS
+0 3 노랗+ㄴ VA+ETM
+3 5 서류 NNG
+5 8 봉투+를 NNG+JKO ARG-을
+8 10 들+고 VV+EC PRED:들
+10 14 집+안+으로 NNG+NNG+JKB ARG-으로
+14 19 들어오+면서 VV+EC PRED:들어오
+19 21 그+는 NP+JX ARG-이,ARG-을
+21 24 미간+을 NNG+JKO ARG-을
+24 30 찌푸리+었+다+. VV+EP+EF+SF PRED:찌푸리
+EOS
+0 2 참+, IC+SP
+2 6 대단+하+ㄴ XR+XSA+ETM
+6 11 누나+이+야+. NNG+VCP+EF+SF PRED:누나이
+EOS
+0 3 매형+은 NNG+JX ARG-이,ARG-을
+3 5 매일 MAG
+5 6 그 MM
+6 9 잔소리 NNG
+9 12 어떻+게 VA+EC PRED:어떻
+12 15 견디+나 VV+EC PRED:견디
+15 19 모르+아+. VV+EF+SF PRED:모르
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 4 서류 NNG
+4 7 봉투+를 NNG+JKO ARG-을
+7 10 탁자+에 NNG+JKB ARG-에
+10 11 휙 MAG
+11 18 던지+어+두+었+다가 VV+EC+VX+EP+EC PRED:던지
+18 20 다시 MAG
+20 22 집+어 VV+EC PRED:집
+22 26 뜯+었+다+. VV+EP+EF+SF PRED:뜯
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 4 신문 NNG
+4 7 오리+ㄴ VV+ETM
+7 9 것+을 NNB+JKO ARG-을
+9 11 들+고 VV+EC PRED:들
+11 14 사진+의 NNG+JKG
+14 18 주인공+을 NNG+JKO ARG-을
+18 25 들여다보+았+다+. VV+EP+EF+SF PRED:들여다보
+EOS
+0 2 분명 MAG
+2 3 그 MM
+3 4 알 NNP
+4 10 로버릭+이+라는 NNP+VCP+ETM
+10 12 배우 NNG
+12 18 녀석+이+었+다+. NNB+VCP+EP+EF+SF PRED:녀석이
+EOS
+0 3 그런데 MAJ
+3 5 그+가 NP+JKS ARG-이
+5 8 다정히 MAG
+8 11 어깨+를 NNG+JKO ARG-을
+11 14 감싸+고 VV+EC PRED:감싸
+14 16 있+는 VX+ETM
+16 19 상대+는 NNG+JX ARG-이,ARG-을
+19 22 경지+가 NNP+JKC ARG-이
+22 27 아니+었+다+. VCN+EP+EF+SF PRED:아니
+EOS
+0 2 그+가 NP+JKS ARG-이
+2 4 잘못 MAG
+4 6 보+ㄴ VV+ETM
+6 8 것+이 NNB+JKC ARG-이
+8 12 아니+라면 VCN+EC PRED:아니
+12 13 그 MM
+13 16 여자+는 NNG+JX ARG-이,ARG-을
+16 19 경지+의 NNP+JKG
+19 23 친구+이+ㄴ NNG+VCP+ETM
+23 30 신지은+이+었+다+. NNP+VCP+EP+EF+SF PRED:신지은이
+EOS
+0 2 사진 NNG
+2 6 아래+에+는 NNG+JKB+JX ARG-이,ARG-을
+6 10 짤막+하+ㄴ XR+XSA+ETM
+10 13 기사+가 NNG+JKS ARG-이
+13 16 적히+어 VV+EC PRED:적히
+16 20 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 3 그+들+은 NP+XSN+JX ARG-이,ARG-을
+3 6 다음+달 NNG+NNG
+6 10 25+일+, SN+NNB+SP
+10 14 성탄절+에 NNG+JKB ARG-에
+14 18 결혼+하+ㄹ NNG+XSV+ETM
+18 23 예정+이+고+. NNG+VCP+EF+SF PRED:예정이
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 5 손+으로 NNG+JKB ARG-으로
+5 7 눈+을 NNG+JKO ARG-을
+7 8 한 MM
+8 9 번 NNB
+9 12 비비+고 VV+EC PRED:비비
+12 16 복사+하+ㄴ NNG+XSV+ETM
+16 19 용지+를 NNG+JKO ARG-을
+19 25 쳐다보+았+다+. VV+EP+EF+SF PRED:쳐다보
+EOS
+0 3 그것+은 NP+JX ARG-이,ARG-을
+3 5 호적 NNG
+5 11 등본+이+었+다+. NNG+VCP+EP+EF+SF PRED:등본이
+EOS
+0 3 그리고 MAJ
+3 7 거기+에+는 NP+JKB+JX ARG-이,ARG-을
+7 11 진규혁+과 NNP+JC
+11 15 최경지+의 NNP+JKG
+15 18 이름+이 NNG+JKS ARG-이
+18 22 배우자+로 NNG+JKB ARG-로
+22 25 나란히 MAG
+25 28 오르+아 VV+EC PRED:오르
+28 32 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 3 이것+이 NP+JKS ARG-이
+3 6 어떻+게 VA+EC PRED:어떻
+6 8 되+ㄴ VV+ETM
+8 12 거+이+지+? NNB+VCP+EF+SF PRED:거이
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 4 분명 MAG
+4 10 기억+하+았+다+. NNG+XSV+EP+EF+SF PRED:기억하
+EOS
+0 4 아니+야+. VCN+EF+SF PRED:아니
+EOS
+0 2 그럼 MAG
+2 5 누구+가 NP+JKS ARG-이
+5 11 신고+하+았+지+? NNG+XSV+EP+EF+SF PRED:신고하
+EOS
+0 2 용지 NNG
+2 5 뒷면+에 NNG+JKB ARG-에
+5 9 뭐+이+ㄴ가 NP+VCP+EC PRED:뭐이
+9 11 쓰+어 VV+EC PRED:쓰
+11 15 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 2 마구 MAG
+2 6 휘갈기+어 VV+EC PRED:휘갈기
+6 8 쓰+ㄴ VV+ETM
+8 10 것+ㄹ NNB+JKO ARG-을
+10 12 보+니 VV+EC PRED:보
+12 16 틀림없이 MAG
+16 20 작은누나 NNG
+20 26 글씨+이+었+다+. NNG+VCP+EP+EF+SF PRED:글씨이
+EOS
+0 2 누나 NNG
+2 6 짓+이+야+? NNG+VCP+EF+SF PRED:짓이
+EOS
+0 3 아래+에 NNG+JKB ARG-에
+3 8 무엇+이+ㄴ가 NP+VCP+EC PRED:무엇이
+8 9 더 MAG
+9 12 적히+어 VV+EC PRED:적히
+12 16 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 3 규혁+은 NNP+JX ARG-이,ARG-을
+3 7 자리+에서 NNG+JKB ARG-에서
+7 9 벌떡 MAG
+9 15 일어나+았+다+. VV+EP+EF+SF PRED:일어나
+EOS
+0 3 경지+는 NNP+JX ARG-이,ARG-을
+3 4 또 MAG
+4 6 앞+에 NNG+JKB ARG-에
+6 9 놓이+ㄴ VV+ETM
+9 12 찻잔+을 NNG+JKO ARG-을
+12 16 엎지르+ㄹ VV+ETM
+16 21 뻔+하+았+다+. NNB+XSA+EP+EF+SF PRED:뻔하
+EOS
+0 2 계속 MAG
+2 4 이런 MM
+4 9 식+이+었+다+. NNB+VCP+EP+EF+SF PRED:식이
+EOS
+0 1 이 MM
+1 4 카페+는 NNG+JX ARG-이,ARG-을
+4 6 처음 NNG
+6 9 그+들+이 NP+XSN+JKS ARG-이
+9 11 계약 NNG
+11 14 결혼+에 NNG+JKB ARG-에
+14 19 합의+하+았+던 NNG+XSV+EP+ETM PRED:합의하
+19 23 곳+이+다+. NNG+VCP+EF+SF PRED:곳이
+EOS
+0 3 그때+는 NNG+JX ARG-이,ARG-을
+3 11 초여름+이+었+는데+, NNG+VCP+EP+EC+SP PRED:초여름이
+11 14 지금+은 NNG+JX ARG-이,ARG-을
+14 17 하늘+도 NNG+JX ARG-이,ARG-을
+17 22 우중충+하+고 MAG+XSV+EC PRED:우중충하
+22 26 스산+하+ㄴ XR+XSA+ETM
+26 29 바람+이 NNG+JKS ARG-이
+29 31 불+고 VV+EC PRED:불
+31 35 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 8 *DQUOTE* SS
+8 10 빨리 MAG
+10 15 오+았+구나+. VV+EP+EF+SF PRED:오
+15 23 *DQUOTE* SS
+EOS
+0 2 그+의 NP+JKG
+2 5 모습+을 NNG+JKO ARG-을
+5 9 정신없이 MAG
+9 11 훑+던 VV+ETM
+11 14 그녀+는 NP+JX ARG-이,ARG-을
+14 16 그+의 NP+JKG
+16 20 달라지+ㄴ VV+ETM
+20 23 모습+에 NNG+JKB ARG-에
+23 28 놀라+았+다+. VV+EP+EF+SF PRED:놀라
+EOS
+0 3 그리고 MAJ
+3 5 그+는 NP+JX ARG-이,ARG-을
+5 8 그녀+가 NP+JKS ARG-이
+8 12 기억+하+던 NNG+XSV+ETM
+12 14 활기 NNG
+14 17 넘치+는 VV+ETM
+17 20 모습+이 NNG+JKC ARG-이
+20 25 아니+었+다+. VCN+EP+EF+SF PRED:아니
+EOS
+0 3 어디+가 NP+JKS ARG-이
+3 6 아프+ㄴ VA+ETM
+6 11 것+이+ㄹ까+? NNB+VCP+EF+SF PRED:것이
+EOS
+0 5 마찬가지+로 NNG+JKB ARG-로
+5 8 그녀+를 NP+JKO ARG-을
+8 10 빤히 MAG
+10 14 쳐다보+던 VV+ETM
+14 17 규혁+이 NNP+JKS ARG-이
+17 19 입+을 NNG+JKO ARG-을
+19 23 떼+었+다+. VV+EP+EF+SF PRED:떼
+EOS
+0 8 *DQUOTE* SS
+8 9 너 NP
+9 15 아프+았+구나+. VA+EP+EF+SF PRED:아프
+15 23 *DQUOTE* SS
+EOS
+0 2 그+의 NP+JKG
+2 5 입매+가 NNG+JKS ARG-이
+5 7 잠시 MAG
+7 15 단단+하+아+지+었+다+. XR+XSA+EC+VX+EP+EF+SF PRED:단단하
+EOS
+0 3 그리고 MAJ
+3 6 미간+에 NNG+JKB ARG-에
+6 8 힘+이 NNG+JKS ARG-이
+8 14 들어가+았+다+. VV+EP+EF+SF PRED:들어가
+EOS
+0 3 분명히 MAG
+3 5 화+가 NNG+JKS ARG-이
+5 9 나+았+다는 VV+EP+ETM PRED:나
+9 15 표시+이+었+다+. NNG+VCP+EP+EF+SF PRED:표시이
+EOS
+0 2 내+가 NP+JKS ARG-이
+2 8 아프+았+다는데 VA+EP+EC PRED:아프
+8 9 왜 MAG
+9 11 화+를 NNG+JKO ARG-을
+11 13 내+는 VV+ETM
+13 17 거+이+지+? NNB+VCP+EF+SF PRED:거이
+EOS
+0 3 그런데 MAJ
+3 6 그것+이 NP+JKS ARG-이
+6 8 무슨 MM
+8 14 소리+이+에요+? NNG+VCP+EF+SF PRED:소리이
+EOS
+0 2 혼인 NNG
+2 5 신고+가 NNG+JKC ARG-이
+5 7 되+어 VV+EC PRED:되
+7 11 있+다니+? VX+EF+SF PRED:있
+EOS
+0 3 그녀+가 NP+JKS ARG-이
+3 6 재빨리 MAG
+6 9 화제+를 NNG+JKO ARG-을
+9 12 바꾸+자 VV+EC PRED:바꾸
+12 14 그+는 NP+JX ARG-이,ARG-을
+14 19 주머니+에서 NNG+JKB ARG-에서
+19 22 하얗+ㄴ VA+ETM
+22 25 종이+를 NNG+JKO ARG-을
+25 28 꺼내+어 VV+EC PRED:꺼내
+28 35 보이+어+주+었+다+. VV+EC+VX+EP+EF+SF PRED:보이
+EOS
+0 2 분명 MAG
+2 6 최경지+와 NNP+JC
+6 10 진규혁+의 NNP+JKG
+10 13 이름+이 NNG+JKS ARG-이
+13 16 오르+아 VV+EC PRED:오르
+16 18 있+는 VX+ETM
+18 20 호적 NNG
+20 26 등본+이+었+다+. NNG+VCP+EP+EF+SF PRED:등본이
+EOS
+0 3 그녀+는 NP+JX ARG-이,ARG-을
+3 5 잠시 MAG
+5 8 눈앞+이 NNG+JKS ARG-이
+8 16 아찔+하+아+지+었+다+. XR+XSA+EC+VX+EP+EF+SF PRED:아찔하
+EOS
+0 2 이+, NP+SP
+2 5 이것+이 NP+JKS ARG-이
+5 9 뭐+이+야+? NP+VCP+EF+SF PRED:뭐이
+EOS
+0 5 작은누나+가 NNG+JKS ARG-이
+5 7 내+가 NP+JKS ARG-이
+7 9 깜박 MAG
+9 11 잊+고 VV+EC PRED:잊
+11 13 혼인 NNG
+13 16 신고+를 NNG+JKO ARG-을
+16 18 하+지 VV+EC PRED:하
+18 22 않+았+다고 VX+EP+EC PRED:않
+22 27 생각+하+았+나 NNG+XSV+EP+EC PRED:생각하
+27 30 보+아+. VX+EF+SF PRED:보
+EOS
+0 3 동생+을 NNG+JKO ARG-을
+3 11 생각+하+아+주+느라고 NNG+XSV+EC+VX+EC PRED:생각하
+11 13 그런 MM
+13 18 것+이+ㄴ데+. NNB+VCP+EF+SF PRED:것이
+EOS
+0 3 경지+는 NNP+JX ARG-이,ARG-을
+3 6 영국+에 NNP+JKB ARG-에
+6 8 가+기 VV+ETN
+8 10 전+, NNG+SP
+10 14 진종미+가 NNP+JKS ARG-이
+14 19 찾아오+았+던 VV+EP+ETM PRED:찾아오
+19 21 일+을 NNG+JKO ARG-을
+21 27 떠올리+었+다+. VV+EP+EF+SF PRED:떠올리
+EOS
+0 3 하지만 MAJ
+3 6 눈앞+에 NNG+JKB ARG-에
+6 9 놓이+ㄴ VV+ETM
+9 12 서류+는 NNG+JX ARG-이,ARG-을
+12 15 가짜+가 NNG+JKC ARG-이
+15 20 아니+었+다+. VCN+EP+EF+SF PRED:아니
+EOS
+0 3 그리고 MAJ
+3 5 그+는 NP+JX ARG-이,ARG-을
+5 7 지금 MAG
+7 11 잘못+되+ㄴ MAG+XSV+ETM
+11 13 것+을 NNB+JKO ARG-을
+13 17 시정+하+러 NNG+XSV+EC PRED:시정하
+17 21 만나+자고 VV+EC PRED:만나
+21 24 하*+ㄴ VV+ETM
+24 28 것+이+다+. NNB+VCP+EF+SF PRED:것이
+EOS
+0 4 그렇+다면 VA+EC PRED:그렇
+4 6 그+는 NP+JX ARG-이,ARG-을
+6 9 여자+를 NNG+JKO ARG-을
+9 11 새로 MAG
+11 14 만나+ㄴ VV+ETM
+14 16 것+이 NNB+JKS ARG-이
+16 22 틀림없+었+다+. VA+EP+EF+SF PRED:틀림없
+EOS
+0 4 최경지+, NNP+SP
+4 7 더+이상 MAG+NNG
+7 13 비참+하+아+지+지 NNG+XSV+EC+VX+EC PRED:비참하
+13 16 말+자+. VX+EF+SF PRED:말
+EOS
+0 2 그냥 MAG
+2 5 태연히 MAG
+5 9 웃+으면서 VV+EC PRED:웃
+9 11 그+의 NP+JKG
+11 14 행복+을 NNG+JKO ARG-을
+14 19 빌+어+주+어+. VV+EC+VX+EF+SF PRED:빌
+EOS
+0 2 너+ㄴ NP+JX ARG-이,ARG-을
+2 4 네+가 NP+JKS ARG-이
+4 8 사랑+하+ㄴ NNG+XSV+ETM
+8 11 사람+이 NNG+JKS ARG-이
+11 13 어떤 MM
+13 18 사람+이+ㄴ지 NNG+VCP+EC PRED:사람이
+18 23 누구+보다+도 NP+JKB+JX ARG-이,ARG-을
+23 24 잘 MAG
+24 26 알+고 VV+EC PRED:알
+26 30 있+잖아+. VV+EF+SF PRED:있
+EOS
+0 3 그것+이 NP+JKS ARG-이
+3 8 사랑+이+야+. NNG+VCP+EF+SF PRED:사랑이
+EOS
+0 3 이제+ㄴ NNG+JX ARG-이,ARG-을
+3 7 마음+으로 NNG+JKB ARG-으로
+7 9 그+를 NP+JKO ARG-을
+9 15 보내+어+주+어+. VV+EC+VX+EF+SF PRED:보내
+EOS
+0 3 가슴+이 NNG+JKS ARG-이
+3 4 텅 MAG
+4 6 비+ㄴ VV+ETM
+6 7 듯 NNB
+7 13 허전+하+았+다+. XR+XSA+EP+EF+SF PRED:허전하
+EOS
+0 8 *DQUOTE* SS
+8 10 그럼 MAG
+10 12 이혼 NNG
+12 15 소송+을 NNG+JKO ARG-을
+15 18 하+아야 VV+EC PRED:하
+18 22 하+나요+? VX+EF+SF PRED:하
+22 30 *DQUOTE* SS
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 6 아무+말+이 MM+NNG+JKS ARG-이
+6 10 없+었+다+. VA+EP+EF+SF PRED:없
+EOS
+0 3 나+에게 NP+JKB ARG-에게
+3 7 미안+하+ㄴ XR+XSA+ETM
+7 10 마음+은 NNG+JX ARG-이,ARG-을
+10 12 있+나 VV+EC PRED:있
+12 15 보+지+? VX+EF+SF PRED:보
+EOS
+0 8 *DQUOTE* SS
+8 11 하지만 MAJ
+11 15 분명+…+… MAG+SE+SE
+15 22 사실혼+이+었+어+. NNG+VCP+EP+EF+SF PRED:사실혼이
+22 30 *DQUOTE* SS
+EOS
+0 3 갑자기 MAG
+3 6 숨+쉬+는 NNG+VV+ETM
+6 8 것+이 NNB+JKS ARG-이
+8 15 불편+하+아+지+어서 NNG+XSA+EC+VX+EC PRED:불편하
+15 18 경지+는 NNP+JX ARG-이,ARG-을
+18 20 숨+을 NNG+JKO ARG-을
+20 22 크+게 VA+EC PRED:크
+22 27 들이쉬+어야 VV+EC PRED:들이쉬
+27 31 하+았+다+. VX+EP+EF+SF PRED:하
+EOS
+0 3 그래+, IC+SP
+3 5 그+는 NP+JX ARG-이,ARG-을
+5 6 그 MM
+6 9 사실+이 NNG+JKS ARG-이
+9 12 걸리+는 VV+ETM
+12 16 거+이+야+. NNB+VCP+EF+SF PRED:거이
+EOS
+0 3 그녀+는 NP+JX ARG-이,ARG-을
+3 4 젖 NNG
+4 6 먹+던 VV+ETM
+6 9 힘+까지 NNG+JX ARG-이,ARG-을
+9 14 끌+어+모으+아 VV+EC+VV+EC PRED:끌
+14 18 거짓말+을 NNG+JKO ARG-을
+18 22 하+았+다+. VV+EP+EF+SF PRED:하
+EOS
+0 3 갑자기 MAG
+3 5 그+의 NP+JKG
+5 9 목소리+가 NNG+JKS ARG-이
+9 17 날카롭+어+지+었+다+. VA+EC+VX+EP+EF+SF PRED:날카롭
+EOS
+0 4 그러+어도 VV+EC PRED:그러
+4 6 다행 NNG
+6 10 아니+야+? VCN+EF+SF PRED:아니
+EOS
+0 1 그 MM
+1 5 배우+와* NNG+JKB ARG-와*
+5 11 결혼+하+았+으면 NNG+XSV+EP+EC PRED:결혼하
+11 15 중혼+으로 NNG+JKB ARG-으로
+15 18 감방+에 NNG+JKB ARG-에
+18 20 가+ㄹ VV+ETM
+20 26 뻔+하+았+는데+. NNB+XSA+EP+EF+SF PRED:뻔하
+EOS
+0 1 알 NNP
+1 5 로버릭+이 NNP+JKS ARG-이
+5 7 다른 MM
+7 10 여자+를 NNG+JKO ARG-을
+10 14 선택+하+ㄴ NNG+XSV+ETM
+14 16 것+이 NNB+JKS ARG-이
+16 20 너+한테+는 NP+JKB+JX ARG-이,ARG-을
+20 26 전화위복+이+ㄴ NNG+VCP+ETM
+26 30 셈+이+군+. NNB+VCP+EF+SF PRED:셈이
+EOS
+0 4 그렇+지+? VA+EF+SF PRED:그렇
+EOS
+0 3 경지+는 NNP+JX ARG-이,ARG-을
+3 6 규혁+이 NNP+JKS ARG-이
+6 8 무슨 MM
+8 11 소리+를 NNG+JKO ARG-을
+11 13 하+고 VV+EC PRED:하
+13 16 있+는지 VX+EC PRED:있
+16 19 모르+아 VV+EC PRED:모르
+19 21 잠시 MAG
+21 29 어리둥절+하+았+다+. XR+XSA+EP+EF+SF PRED:어리둥절하
+EOS
+0 4 그러니까 MAJ
+4 7 진작에 MAG
+7 9 나+의 NP+JKG
+9 11 말+을 NNG+JKO ARG-을
+11 17 들+었+어야지+. VV+EP+EF+SF PRED:들
+EOS
+0 1 그 MM
+1 4 녀석+은 NNB+JX ARG-이,ARG-을
+4 6 너+ㄹ NP+JKO ARG-을
+6 8 잠시 MAG
+8 11 가지+고 VV+EC PRED:가지
+11 14 놀+았+을 VV+EP+ETM PRED:놀
+14 18 뿐+이+야+. NNB+VCP+EF+SF PRED:뿐이
+EOS
+0 2 네+가 NP+JKS ARG-이
+2 4 찾+는 VV+ETM
+4 7 햄릿+이 NNP+JKC ARG-이
+7 13 아니+었+다구+. VCN+EP+EF+SF PRED:아니
+EOS
+0 2 이제 MAG
+2 5 정신+이 NNG+JKS ARG-이
+5 6 좀 MAG
+6 9 들+어+? VV+EF+SF PRED:들
+EOS
+0 3 그래+, IC+SP
+3 7 영국+까지 NNP+JX ARG-이,ARG-을
+7 13 따라가+았+는데 VV+EP+EC PRED:따라가
+13 17 친구+한테 NNG+JKB ARG-한테
+17 23 뺏기+어+버리+ㄴ VV+EC+VX+ETM PRED:뺏기
+23 26 기분+이 NNG+JKS ARG-이
+26 30 어떻+어+? VA+EF+SF PRED:어떻
+EOS
+0 1 이 MM
+1 4 사람+은 NNG+JX ARG-이,ARG-을
+4 7 아직+도 MAG+JX
+7 9 내+가 NP+JKS ARG-이
+9 11 알+을 NNP+JKO ARG-을
+11 14 따르+아 VV+EC PRED:따르
+14 17 영국+에 NNP+JKB ARG-에
+17 21 가+았+다고 VV+EP+EC PRED:가
+21 25 생각+하+는 NNG+XSV+ETM
+25 29 거+이+야+? NNB+VCP+EF+SF PRED:거이
+EOS
+0 3 그녀+는 NP+JX ARG-이,ARG-을
+3 5 바싹 MAG
+5 8 마르+ㄴ VV+ETM
+8 11 입술+을 NNG+JKO ARG-을
+11 15 축이+려다 VV+EC PRED:축이
+15 18 찻잔+을 NNG+JKO ARG-을
+18 20 다시 MAG
+20 25 놓치+었+다+. VV+EP+EF+SF PRED:놓치
+EOS
+0 4 위태+롭+ㄴ XR+XSA+ETM
+4 7 찻잔+을 NNG+JKO ARG-을
+7 11 제자리+에 NNG+JKB ARG-에
+11 15 놓+는데+, VV+EC+SP PRED:놓
+15 18 규혁이 NNP
+18 21 그녀+의 NP+JKG
+21 24 손목+을 NNG+JKO ARG-을
+24 28 잡+았+다+. VV+EP+EF+SF PRED:잡
+EOS
+0 1 그 MM
+1 3 녀석 NNB
+3 6 때문+에 NNB+JKB ARG-에
+6 9 이렇+게 VA+EC PRED:이렇
+9 12 마르+ㄴ VV+ETM
+12 16 거+이+야+? NNB+VCP+EF+SF PRED:거이
+EOS
+0 2 그런 MM
+2 6 거+이+야+? NNB+VCP+EF+SF PRED:거이
+EOS
+0 3 영국+에 NNP+JKB ARG-에
+3 9 따라가+았+다가 VV+EP+EC PRED:따라가
+9 11 그+가 NP+JKS ARG-이
+11 14 진심+이 NNG+JKC ARG-이
+14 18 아니+라는 VCN+ETM
+18 20 것+ㄹ NNB+JKO ARG-을
+20 23 깨닫+은 VV+ETM
+23 28 거+이+로군+. NNB+VCP+EF+SF PRED:거이
+EOS
+0 4 당황+하+ㄴ NNG+XSV+ETM
+4 7 그녀+가 NP+JKS ARG-이
+7 10 떨리+는 VV+ETM
+10 13 손목+을 NNG+JKO ARG-을
+13 16 빼+려고 VV+EC PRED:빼
+16 21 하+았+지만+, VX+EP+EC+SP PRED:하
+21 23 그+는 NP+JX ARG-이,ARG-을
+23 27 놓아주+지 VV+EC PRED:놓아주
+27 31 않+았+다+. VX+EP+EF+SF PRED:않
+EOS
+0 2 내+가 NP+JKS ARG-이
+2 8 그놈+이+었+어도 NP+VCP+EP+EC PRED:그놈이
+8 10 너+의 NP+JKG
+10 13 친구+를 NNG+JKO ARG-을
+13 18 선택+하+았+을 NNG+XSV+EP+ETM PRED:선택하
+18 22 거+이+야+. NNB+VCP+EF+SF PRED:거이
+EOS
+0 2 너+ㄴ NP+JX ARG-이,ARG-을
+2 5 사람+을 NNG+JKO ARG-을
+5 9 마음+대로 NNG+JX ARG-이,ARG-을
+9 12 가지+고 VV+EC PRED:가지
+12 14 놀+는 VV+ETM
+14 17 못+되+ㄴ MAG+XSA+ETM
+17 24 기집애+이+니까+. NNG+VCP+EF+SF PRED:기집애이
+EOS
+0 3 경지+는 NNP+JX ARG-이,ARG-을
+3 5 있+는 VX+ETM
+5 7 힘껏 MAG
+7 9 손+을 NNG+JKO ARG-을
+9 15 잡+아+빼+었+다+. VV+EC+VV+EP+EF+SF PRED:잡
+EOS
+0 1 그 MM
+1 4 바람+에 NNB+JKB ARG-에
+4 7 찻잔+이 NNG+JKS ARG-이
+7 10 밀리+어 VV+EC PRED:밀리
+10 13 바닥+에 NNG+JKB ARG-에
+13 18 떨어지+면서 VV+EC PRED:떨어지
+18 21 박살+이 NNG+JKS ARG-이
+21 25 나+았+다+. VV+EP+EF+SF PRED:나
+EOS
+0 3 온몸+의 NNG+JKG
+3 6 신경+이 NNG+JKS ARG-이
+6 10 부들부들 MAG
+10 15 떨리+었+다+. VV+EP+EF+SF PRED:떨리
+EOS
+0 3 그녀+는 NP+JX ARG-이,ARG-을
+3 6 울음+이 NNG+JKS ARG-이
+6 13 터지+어+나오+려는 VV+EC+VV+ETM PRED:터지
+13 15 것+을 NNB+JKO ARG-을
+15 17 겨우 MAG
+17 21 참+으면서 VV+EC PRED:참
+21 24 간신히 MAG
+24 31 한마디+하+았+다+. NNG+XSV+EP+EF+SF PRED:한마디하
+EOS
+0 8 *DQUOTE* SS
+8 11 나중+에 NNG+JKB ARG-에
+11 15 변호사+가 NNG+JKS ARG-이
+15 19 연락+하+ㄹ NNG+XSV+ETM
+19 24 거+이+에요+. NNB+VCP+EF+SF PRED:거이
+24 32 *DQUOTE* SS
+EOS
+0 3 그리고 MAJ
+3 6 밖+으로 NNG+JKB ARG-으로
+6 12 걷+어+나가+는데 VV+EC+VX+EC PRED:걷
+12 15 눈물+이 NNG+JKS ARG-이
+15 17 마구 MAG
+17 23 쏟아지+었+다+. VV+EP+EF+SF PRED:쏟아지
+EOS
+0 2 자기 NP
+2 5 자신+이 NNG+JKS ARG-이
+5 10 불쌍+하+아서 XR+XSA+EC PRED:불쌍하
+10 13 견디+ㄹ VV+ETM
+13 15 수+가 NNB+JKS ARG-이
+15 19 없+었+다+. VA+EP+EF+SF PRED:없
+EOS
+0 3 아니+, IC+SP
+3 7 불쌍+하+다 XR+XSA+EC PRED:불쌍하
+7 10 못하+아 VX+EC PRED:못하
+10 17 혐오+스럽+었+다+. NNG+XSA+EP+EF+SF PRED:혐오스럽
+EOS
+0 3 똑같이 MAG
+3 6 그+에게 NP+JKB ARG-에게
+6 10 상처+주+지 NNG+VV+EC PRED:주
+10 13 못하+는 VX+ETM
+13 16 자신+이 NNG+JKS ARG-이
+16 20 싫+었+다+. VA+EP+EF+SF PRED:싫
+EOS
+0 3 경지+는 NNP+JX ARG-이,ARG-을
+3 7 사람+들+의 NNG+XSN+JKG
+7 10 시선+은 NNG+JX ARG-이,ARG-을
+10 14 신경+쓰+지 NNG+VV+EC PRED:쓰
+14 16 않+고 VX+EC PRED:않
+16 20 걷+었+다+. VV+EP+EF+SF PRED:걷
+EOS
+0 2 어서 MAG
+2 4 빨리 MAG
+4 8 그+에게서 NP+JKB ARG-에게서
+8 13 멀+어+지+어야 VA+EC+VX+EC PRED:멀
+13 17 하+ㄴ다는 VX+ETM
+17 24 생각+뿐+이+었+다+. NNG+NNB+VCP+EP+EF+SF PRED:뿐이
+EOS
+0 1 그 MM
+1 3 순간 NNG
+3 7 커다랗+ㄴ VA+ETM
+7 11 승용차+가 NNG+JKS ARG-이
+11 14 옆+에서 NNG+JKB ARG-에서
+14 18 괴상+하+ㄴ XR+XSA+ETM
+18 21 소리+를 NNG+JKO ARG-을
+21 23 내+며 VV+EC PRED:내
+23 26 그녀+를 NP+JKO ARG-을
+26 30 치+었+다+. VV+EP+EF+SF PRED:치
+EOS
+0 3 규혁+은 NNP+JX ARG-이,ARG-을
+3 5 점원 NNG
+5 9 아가씨+가 NNG+JKS ARG-이
+9 12 깨지+ㄴ VV+ETM
+12 14 잔+을 NNG+JKO ARG-을
+14 17 치우+는 VV+ETM
+17 19 것+을 NNB+JKO ARG-을
+19 25 바라보+았+다+. VV+EP+EF+SF PRED:바라보
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 5 멍하니 MAG
+5 8 그녀+가 NP+JKS ARG-이
+8 11 나가+ㄴ VV+ETM
+11 14 곳+으로 NNG+JKB ARG-으로
+14 17 시선+을 NNG+JKO ARG-을
+17 22 옮기+었+다+. VV+EP+EF+SF PRED:옮기
+EOS
+0 3 유리문 NNG
+3 7 바깥쪽+이 NNG+JKS ARG-이
+7 8 꽤 MAG
+8 15 소란+스럽+었+다+. NNG+XSA+EP+EF+SF PRED:소란스럽
+EOS
+0 3 그렇+지 VA+EC PRED:그렇
+3 6 않+아도 VX+EC PRED:않
+6 8 상처 NNG
+8 12 입*+은* VV+ETM
+12 16 그녀+에게 NP+JKB ARG-에게
+16 18 내+가 NP+JKS ARG-이
+18 20 너무 MAG
+20 23 심하+게 VA+EC PRED:심하
+23 26 대하+ㄴ VV+ETM
+26 31 것+이+ㄹ까+? NNB+VCP+EF+SF PRED:것이
+EOS
+0 2 나+의 NP+JKG
+2 5 기분+은 NNG+JX ARG-이,ARG-을
+5 8 누구+가 NP+JKS ARG-이
+8 15 생각+하+아+주+지+? NNG+XSV+EC+VX+EF+SF PRED:생각하
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 5 자신+이 NNG+JKS ARG-이
+5 7 상처 NNG
+7 11 입+었+다는 VV+EP+ETM PRED:입
+11 14 사실+을 NNG+JKO ARG-을
+14 19 깨닫+았+다+. VV+EP+EF+SF PRED:깨닫
+EOS
+0 3 똑같이 MAG
+3 8 할퀴+어+주+고 VV+EC+VX+EC PRED:할퀴
+8 12 싶+어서+. VX+EF+SF PRED:싶
+EOS
+0 4 나가+아야 VV+EC PRED:나가
+4 8 하+았+다+. VX+EP+EF+SF PRED:하
+EOS
+0 2 다시 MAG
+2 3 한 MM
+3 4 번 NNB
+4 8 그녀+와* NP+JKB ARG-와*
+8 12 이야기+를 NNG+JKO ARG-을
+12 19 하+아야+하+겠+다는 VV+EC+VX+EP+ETM PRED:하
+19 22 생각+이 NNG+JKS ARG-이
+22 26 들+었+다+. VV+EP+EF+SF PRED:들
+EOS
+0 2 손+님 NNG+XSN
+2 3 못 MAG
+3 6 보+시+ㄴ VV+EP+ETM PRED:보
+6 7 것 NNB
+7 12 아니+에요+? VCN+EF+SF PRED:아니
+EOS
+0 4 손+님+하고 NNG+XSN+JKB ARG-하고
+4 10 이야기+하+시+던 NNG+XSV+EP+ETM PRED:이야기하
+10 16 여자+분+이+요+. NNG+NNB+VCP+EF+SF PRED:분이
+EOS
+0 1 왜 MAG
+1 5 그러+지+? VV+EF+SF PRED:그러
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 4 문+을 NNG+JKO ARG-을
+4 9 열+어+제치+고 VV+EC+VV+EC PRED:열
+9 12 밖+으로 NNG+JKB ARG-으로
+12 19 뛰어나가+았+다+. VV+EP+EF+SF PRED:뛰어나가
+EOS
+0 4 웅성웅성 MAG
+4 9 모이+어+있+는 VV+EC+VX+ETM PRED:모이
+9 13 사람+들+이 NNG+XSN+JKS ARG-이
+13 18 보이+었+다+. VV+EP+EF+SF PRED:보이
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 4 어떤 MM
+4 8 아줌마+를 NNG+JKO ARG-을
+8 11 붙잡+고 VV+EC PRED:붙잡
+11 15 다짜고짜 MAG
+15 19 묻+었+다+. VV+EP+EF+SF PRED:묻
+EOS
+0 8 *DQUOTE* SS
+8 10 방금 MAG
+10 12 차+에 NNG+JKB ARG-에
+12 16 치+ㄴ+…+… VV+ETM+SE+SE
+16 17 그 MM
+17 20 여자+, NNG+SP
+20 22 어디 NP
+22 26 있+어요+? VV+EF+SF PRED:있
+26 34 *DQUOTE* SS
+EOS
+0 2 어느 MM
+2 7 병원+이+요+? NNG+VCP+EF+SF PRED:병원이
+EOS
+0 3 규혁+은 NNP+JX ARG-이,ARG-을
+3 6 응급실 NNG
+6 8 문+을 NNG+JKO ARG-을
+8 10 열+고 VV+EC PRED:열
+10 14 병원+으로 NNG+JKB ARG-으로
+14 20 들어가+았+다+. VV+EP+EF+SF PRED:들어가
+EOS
+0 1 이 MM
+1 2 방 NNG
+2 8 어디+이+ㄴ가+에 NP+VCP+EC+JKB PRED:어디이
+8 11 경지+가 NNP+JKS ARG-이
+11 13 눕+어 VV+EC PRED:눕
+13 15 있+을 VX+ETM
+15 19 것+이+다+. NNB+VCP+EF+SF PRED:것이
+EOS
+0 2 빨리 MAG
+2 5 그녀+를 NP+JKO ARG-을
+5 6 두 MM
+6 9 눈+으로 NNG+JKB ARG-으로
+9 14 확인+하+아야 NNG+XSV+EC PRED:확인하
+14 18 하+았+다+. VX+EP+EF+SF PRED:하
+EOS
+0 8 *DQUOTE* SS
+8 11 그녀+는 NP+JX ARG-이,ARG-을
+11 13 지금 MAG
+13 15 어디 NP
+15 20 있+습니까+? VV+EF+SF PRED:있
+20 28 *DQUOTE* SS
+EOS
+0 4 간호사+가 NNG+JKS ARG-이
+4 9 되묻+었+다+. VV+EP+EF+SF PRED:되묻
+EOS
+0 8 *DQUOTE* SS
+8 10 어느 MM
+10 14 분+이+요+? NNB+VCP+EF+SF PRED:분이
+14 22 *DQUOTE* SS
+EOS
+0 2 방금 MAG
+2 6 들어오+ㄴ VV+ETM
+6 11 여자+이+오+. NNG+VCP+EF+SF PRED:여자이
+EOS
+0 4 교통사고 NNG
+4 7 나+아서 VV+EC PRED:나
+7 15 들어오+았+다구요+. VV+EP+EF+SF PRED:들어오
+EOS
+0 2 지금 MAG
+2 4 어디 NP
+4 8 있+어요+? VV+EF+SF PRED:있
+EOS
+0 4 간호사+는 NNG+JX ARG-이,ARG-을
+4 7 규혁+을 NNP+JKO ARG-을
+7 9 빤히 MAG
+9 14 쳐다보+다가 VV+EC PRED:쳐다보
+14 17 천천히 MAG
+17 20 시선+을 NNG+JKO ARG-을
+20 25 돌리+었+다+. VV+EP+EF+SF PRED:돌리
+EOS
+0 3 그녀+의 NP+JKG
+3 6 시선+을 NNG+JKO ARG-을
+6 10 따라가+던 VV+ETM
+10 13 규혁+은 NNP+JX ARG-이,ARG-을
+13 17 얼어붙+고 VV+EC PRED:얼어붙
+17 21 말+았+다+. VX+EP+EF+SF PRED:말
+EOS
+0 4 커다랗+ㄴ VA+ETM
+4 6 산소 NNG
+6 9 마스크 NNG
+9 12 때문+에 NNB+JKB ARG-에
+12 15 그녀+의 NP+JKG
+15 18 얼굴+도 NNG+JX ARG-이,ARG-을
+18 21 제대로 MAG
+21 23 보+ㄹ VV+ETM
+23 25 수+가 NNB+JKS ARG-이
+25 29 없+었+다+. VA+EP+EF+SF PRED:없
+EOS
+0 2 의사 NNG
+2 3 한 MM
+3 5 명+이 NNB+JKS ARG-이
+5 9 그녀+에게 NP+JKB ARG-에게
+9 11 인공 NNG
+11 14 호흡+을 NNG+JKO ARG-을
+14 18 실시+하+고 NNG+XSV+EC PRED:실시하
+18 22 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 3 손 NNG
+3 5 하나 NR
+5 9 까딱+하+ㄹ MAG+XSV+ETM
+9 10 수 NNB
+10 14 없+었+다+. VA+EP+EF+SF PRED:없
+EOS
+0 3 의사+의 NNG+JKG
+3 7 절박+하+ㄴ XR+XSA+ETM
+7 10 동작+이 NNG+JKS ARG-이
+10 13 무엇+을 NP+JKO ARG-을
+13 18 의미+하+는지 NNG+XSV+EC PRED:의미하
+18 20 그+는 NP+JX ARG-이,ARG-을
+20 21 잘 MAG
+21 23 알+고 VV+EC PRED:알
+23 27 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 4 의사+들+의 NNG+XSN+JKG
+4 7 외침+이 NNG+JKS ARG-이
+7 10 귓가+에 NNG+JKB ARG-에
+10 15 들리+었+다+. VV+EP+EF+SF PRED:들리
+EOS
+0 3 혈압+이 NNG+JKS ARG-이
+3 5 너무 MAG
+5 7 빨리 MAG
+7 11 떨어지+고 VV+EC PRED:떨어지
+11 14 있+어+. VX+EF+SF PRED:있
+EOS
+0 1 뭐 NP
+1 3 하+는 VV+ETM
+3 7 거+이+야+? NNB+VCP+EF+SF PRED:거이
+EOS
+0 8 *DQUOTE* SS
+8 11 수혈+을 NNG+JKO ARG-을
+11 15 실시+하+고 NNG+XSV+EC PRED:실시하
+15 20 있+습니다+. VX+EF+SF PRED:있
+20 28 *DQUOTE* SS
+EOS
+0 8 *DQUOTE* SS
+8 11 호흡+이 NNG+JKS ARG-이
+11 18 약하+아+지+어요+. VA+EC+VX+EF+SF PRED:약하
+18 26 *DQUOTE* SS
+EOS
+0 8 *DQUOTE* SS
+8 11 출혈+이 NNG+JKS ARG-이
+11 13 너무 MAG
+13 18 크+ㅂ니다+. VA+EF+SF PRED:크
+18 26 *DQUOTE* SS
+EOS
+0 3 갑자기 MAG
+3 20 *SQUOTE*+삐+*SQUOTE* SS+MAG+SS
+20 22 하+는 VV+ETM
+22 25 소리+와 NNG+JKB ARG-와
+25 27 함께 MAG
+27 31 모니터+의 NNG+JKG
+31 34 심전도 NNG
+34 37 곡선+이 NNG+JKS ARG-이
+37 40 직선+이 NNG+JKC ARG-이
+40 44 되+었+다+. VV+EP+EF+SF PRED:되
+EOS
+0 1 안 MAG
+1 4 되+어+! VV+EF+SF PRED:되
+EOS
+0 3 의사+가 NNG+JKS ARG-이
+3 6 그녀+의 NP+JKG
+6 9 가슴+에 NNG+JKB ARG-에
+9 11 전기 NNG
+11 14 충격+을 NNG+JKO ARG-을
+14 16 주+기 VV+ETN
+16 22 시작+하+았+다+. NNG+XSV+EP+EF+SF PRED:시작하
+EOS
+0 3 그녀+의 NP+JKG
+3 5 몸+이 NNG+JKS ARG-이
+5 11 나무토막+처럼 NNG+JKB ARG-처럼
+11 15 침대+에서 NNG+JKB ARG-에서
+15 22 튀+어+오르+았+다+. VV+EC+VV+EP+EF+SF PRED:튀
+EOS
+0 5 의료진+들+은 NNG+XSN+JX ARG-이,ARG-을
+5 7 모두 MAG
+7 10 동작+을 NNG+JKO ARG-을
+10 15 멈추+었+다+. VV+EP+EF+SF PRED:멈추
+EOS
+0 3 그리고 MAJ
+3 6 고개+를 NNG+JKO ARG-을
+6 11 숙이+었+다+. VV+EP+EF+SF PRED:숙이
+EOS
+0 8 *DQUOTE* SS
+8 9 안 MAG
+9 12 되+어+! VV+EF+SF PRED:되
+12 20 *DQUOTE* SS
+EOS
+0 3 규혁+은 NNP+JX ARG-이,ARG-을
+3 7 사람+들+을 NNG+XSN+JKO ARG-을
+7 10 밀치+고 VV+EC PRED:밀치
+10 14 달려가+아 VV+EC PRED:달려가
+14 16 눈+에 NNG+JKB ARG-에
+16 19 보이+는 VV+ETM
+19 22 사람+의 NNG+JKG
+22 25 멱살+을 NNG+JKO ARG-을
+25 29 움켜잡+고 VV+EC PRED:움켜잡
+29 34 흔들+었+다+. VV+EP+EF+SF PRED:흔들
+EOS
+0 2 당장 NNG
+2 8 살리+어+내+어+! VV+EC+VX+EF+SF PRED:살리
+EOS
+0 2 당신 NP
+2 8 의사+이+잖아+! NNG+VCP+EF+SF PRED:의사이
+EOS
+0 1 뭐 NP
+1 3 하+는 VV+ETM
+3 7 거+이+야+! NNB+VCP+EF+SF PRED:거이
+EOS
+0 6 살리+어+내+어+! VV+EC+VX+EF+SF PRED:살리
+EOS
+0 2 옆+에 NNG+JKB ARG-에
+2 4 있+던 VV+ETM
+4 8 사람+들+이 NNG+XSN+JKS ARG-이
+8 10 그+의 NP+JKG
+10 12 팔+을 NNG+JKO ARG-을
+12 14 잡+고 VV+EC PRED:잡
+14 19 말리+었+다+. VV+EP+EF+SF PRED:말리
+EOS
+0 2 당장 NNG
+2 8 살리+어+내+어+! VV+EC+VX+EF+SF PRED:살리
+EOS
+0 3 경지+가 NNP+JKS ARG-이
+3 6 죽+으면 VV+EC PRED:죽
+6 10 당신+들+도 NP+XSN+JX ARG-이,ARG-을
+10 12 죽+을 VV+ETM
+12 13 줄 NNB
+13 16 알+아+! VV+EF+SF PRED:알
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 5 미치+ㄴ VV+ETM
+5 7 듯이 NNB
+7 9 악+을 NNG+JKO ARG-을
+9 11 쓰+며 VV+EC PRED:쓰
+11 13 팔+을 NNG+JKO ARG-을
+13 17 휘두르+어 VV+EC PRED:휘두르
+17 20 말리+는 VV+ETM
+20 24 사람+들+을 NNG+XSN+JKO ARG-을
+24 30 뿌리치+었+다+. VV+EP+EF+SF PRED:뿌리치
+EOS
+0 8 진정+하+시+ㅂ시오+. NNG+XSV+EP+EF+SF PRED:진정하
+EOS
+0 3 최선+을 NNG+JKO ARG-을
+3 8 다+하+았+지만 MAG+XSV+EP+EC PRED:다하
+8 10 너무 MAG
+10 12 늦+게 VA+EC PRED:늦
+12 20 도착+하+았+습니다+. NNG+XSV+EP+EF+SF PRED:도착하
+EOS
+0 3 출혈+이 NNG+JKS ARG-이
+3 5 너무 MAG
+5 9 심하+아서 VA+EC PRED:심하
+9 12 손쓰+ㄹ VV+ETM
+12 16 여유+조차 NNG+JX ARG-이,ARG-을
+16 22 없+었+습니다+. VA+EP+EF+SF PRED:없
+EOS
+0 2 믿+을 VV+ETM
+2 4 수+가 NNB+JKS ARG-이
+4 8 없+었+다+. VA+EP+EF+SF PRED:없
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 4 정신 NNG
+4 7 나가+ㄴ VV+ETM
+7 11 사람+처럼 NNG+JKB ARG-처럼
+11 18 중얼거리+었+다+. VV+EP+EF+SF PRED:중얼거리
+EOS
+0 3 옆+에서 NNG+JKB ARG-에서
+3 9 누구+이+ㄴ가+가 NP+VCP+EC+JKS PRED:누구이
+9 11 그+의 NP+JKG
+11 14 어깨+를 NNG+JKO ARG-을
+14 22 다독이+어+주+었+다+. VV+EC+VX+EP+EF+SF PRED:다독이
+EOS
+0 3 눈물+이 NNG+JKS ARG-이
+3 10 흘러내리+었+다+. VV+EP+EF+SF PRED:흘러내리
+EOS
+0 3 다시+는 MAG+JX
+3 6 그녀+를 NP+JKO ARG-을
+6 8 보+ㄹ VV+ETM
+8 9 수 NNB
+9 12 없+다는 VA+ETM
+12 15 사실+이 NNG+JKS ARG-이
+15 19 믿+어+지+지 VV+EC+VX+EC PRED:믿
+19 23 않+았+다+. VX+EP+EF+SF PRED:않
+EOS
+0 2 내+가 NP+JKS ARG-이
+2 5 자기+를 NP+JKO ARG-을
+5 9 사랑+하+는 NNG+XSV+ETM
+9 11 줄+도 NNB+JX ARG-이,ARG-을
+11 16 모르+았+어+. VV+EP+EF+SF PRED:모르
+EOS
+0 5 당연+하+지+. XR+XSA+EF+SF PRED:당연하
+EOS
+0 2 내+가 NP+JKS ARG-이
+2 5 나쁘+ㄴ VA+ETM
+5 10 놈+이+니까+. NNB+VCP+EF+SF PRED:놈이
+EOS
+0 3 규혁+은 NNP+JX ARG-이,ARG-을
+3 5 침대 NNG
+5 7 곁+에 NNG+JKB ARG-에
+7 11 주저앉+아 VV+EC PRED:주저앉
+11 15 머리칼+을 NNG+JKO ARG-을
+15 20 쥐어뜯+으며 VV+EC PRED:쥐어뜯
+20 24 흐느끼+기 VV+ETN
+24 30 시작+하+았+다+. NNG+XSV+EP+EF+SF PRED:시작하
+EOS
+0 3 여기+서 NP+JKB ARG-서
+3 4 좀 MAG
+4 11 진정+하+시+어요+. NNG+XSV+EP+EF+SF PRED:진정하
+EOS
+0 1 물 NNG
+1 2 좀 MAG
+2 12 가지+어다+드리+ㄹ게요+. VV+EC+VX+EF+SF PRED:가지
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 4 초점 NNG
+4 6 없+는 VA+ETM
+6 10 시선+으로 NNG+JKB ARG-으로
+10 13 생명+이 NNG+JKS ARG-이
+13 18 빠져나가+ㄴ VV+ETM
+18 21 경지+를 NNP+JKO ARG-을
+21 27 지켜보+았+다+. VV+EP+EF+SF PRED:지켜보
+EOS
+0 2 모든 MM
+2 4 것+이 NNB+JKS ARG-이
+4 5 그 MM
+5 11 때문+이+었+다+. NNB+VCP+EP+EF+SF PRED:때문이
+EOS
+0 6 그때+이+었+다+. NNG+VCP+EP+EF+SF PRED:그때이
+EOS
+0 5 반대쪽+에서 NNG+JKB ARG-에서
+5 9 간호사+의 NNG+JKG
+9 13 목소리+가 NNG+JKS ARG-이
+13 18 들리+었+다+. VV+EP+EF+SF PRED:들리
+EOS
+0 3 최경지 NNP
+3 5 씨+, NNB+SP
+5 9 엑스레이 NNG
+9 11 찍+고 VV+EC PRED:찍
+11 14 오+시+는 VV+EP+ETM PRED:오
+14 18 거+이+죠+? NNB+VCP+EF+SF PRED:거이
+EOS
+0 3 침대+에 NNG+JKB ARG-에
+3 5 잠시 MAG
+5 7 눕+어 VV+EC PRED:눕
+7 12 계시+어요+. VX+EF+SF PRED:계시
+EOS
+0 3 규혁+은 NNP+JX ARG-이,ARG-을
+3 6 고개+를 NNG+JKO ARG-을
+6 8 번쩍 MAG
+8 12 들+었+다+. VV+EP+EF+SF PRED:들
+EOS
+0 3 이마+에 NNG+JKB ARG-에
+3 7 커다랗+ㄴ VA+ETM
+7 11 반창고+를 NNG+JKO ARG-을
+11 14 붙이+고 VV+EC PRED:붙이
+14 16 약간 MAG
+16 20 절룩이+며 VV+EC PRED:절룩이
+20 22 걷+고 VV+EC PRED:걷
+22 26 있+었+지만 VX+EP+EC PRED:있
+26 29 경지+가 NNP+JKS ARG-이
+29 35 틀림없+었+다+. VA+EP+EF+SF PRED:틀림없
+EOS
+0 3 환상+을 NNG+JKO ARG-을
+3 5 보+는 VV+ETM
+5 7 것+이 NNB+JKC ARG-이
+7 12 아니+ㄹ까+? VCN+EF+SF PRED:아니
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 6 자리+에서 NNG+JKB ARG-에서
+6 8 벌떡 MAG
+8 12 일어나+아 VV+EC PRED:일어나
+12 18 소리치+었+다+. VV+EP+EF+SF PRED:소리치
+EOS
+0 3 하지만 MAJ
+3 5 그+는 NP+JX ARG-이,ARG-을
+5 8 여전히 MAG
+8 15 혼란+스럽+었+다+. NNG+XSA+EP+EF+SF PRED:혼란스럽
+EOS
+0 6 틀림없+었+다+. VA+EP+EF+SF PRED:틀림없
+EOS
+0 1 이 MM
+1 5 목소리+는 NNG+JX ARG-이,ARG-을
+5 7 분명 MAG
+7 10 경지+의 NNP+JKG
+10 17 목소리+이+었+다+. NNG+VCP+EP+EF+SF PRED:목소리이
+EOS
+0 2 그+는 NP+JX ARG-이,ARG-을
+2 5 그녀+를 NP+JKO ARG-을
+5 6 꼭 MAG
+6 11 부둥켜안+고 VV+EC PRED:부둥켜안
+11 14 그녀+의 NP+JKG
+14 18 따뜻+하+ㄴ XR+XSA+ETM
+18 21 온기+를 NNG+JKO ARG-을
+21 27 확인+하+았+다+. NNG+XSV+EP+EF+SF PRED:확인하
+EOS
+0 3 그녀+의 NP+JKG
+3 7 부드럽+ㄴ VA+ETM
+7 10 촉감+과 NNG+JC
+10 14 기다랗+ㄴ VA+ETM
+14 18 머리칼+, NNG+SP
+18 20 가+는 VV+ETM
+20 23 허리+가 NNG+JKS ARG-이
+23 30 느끼+어+지+었+다+. VV+EC+VX+EP+EF+SF PRED:느끼
+EOS
+0 6 이+보+시+어요+. NP+VV+EP+EF+SF PRED:보
+EOS
+0 3 그러+다 VV+EC PRED:그러
+3 5 환자 NNG
+5 12 압사+하+겠+어요+. NNG+XSV+EP+EF+SF PRED:압사하
+EOS
+0 3 그제야 MAG
+3 5 그+는 NP+JX ARG-이,ARG-을
+5 8 그녀+를 NP+JKO ARG-을
+8 9 꼭 MAG
+9 11 안+고 VV+EC PRED:안
+11 13 있+던 VX+ETM
+13 15 팔+을 NNG+JKO ARG-을
+15 19 풀+었+다+. VV+EP+EF+SF PRED:풀
+EOS
+0 3 하지만 MAJ
+3 6 여전히 MAG
+6 10 놓아주+지 VV+EC PRED:놓아주
+10 14 않+았+다+. VX+EP+EF+SF PRED:않
+EOS
+0 3 다시+는 MAG+JX
+3 6 떠나+지 VV+EC PRED:떠나
+6 11 말+아+주+어+. VX+EC+VX+EF+SF PRED:말
+EOS
+0 3 경지+가 NNP+JKS ARG-이
+3 7 믿+어+지+지 VV+EC+VX+EC PRED:믿
+7 11 않+는다는 VX+ETM
+11 15 표정+으로 NNG+JKB ARG-으로
+15 17 그+를 NP+JKO ARG-을
+17 24 올려다보+았+다+. VV+EP+EF+SF PRED:올려다보
+EOS
+0 2 그+가 NP+JKS ARG-이
+2 5 진심+을 NNG+JKO ARG-을
+5 8 말+하+고 NNG+XSV+EC PRED:말하
+8 11 있+다는 VX+ETM
+11 13 것+을 NNB+JKO ARG-을
+13 16 깨닫+은 VV+ETM
+16 19 경지+의 NNP+JKG
+19 21 눈+에 NNG+JKB ARG-에
+21 24 눈물+이 NNG+JKS ARG-이
+24 29 고이+었+다+. VV+EP+EF+SF PRED:고이
+EOS
+0 8 *DQUOTE* SS
+8 10 나+도 NP+JX ARG-이,ARG-을
+10 12 오빠 NNG
+12 15 없이+는 MAG+JX
+15 16 못 MAG
+16 18 살+ㄹ VV+ETM
+18 19 것 NNB
+19 23 같+아요+. VA+EF+SF PRED:같
+23 31 *DQUOTE* SS
+EOS
+0 3 이것+이 NP+JKS ARG-이
+3 5 꿈+이 NNG+JKC ARG-이
+5 9 아니+ㄴ가 VCN+EC PRED:아니
+9 13 싶+었+다+. VX+EP+EF+SF PRED:싶
+EOS
+0 2 너무 MAG
+2 6 오랫동안 NNG
+6 11 바라다보+니 VV+EC PRED:바라다보
+11 13 내+가 NP+JKS ARG-이
+13 15 꿈+을 NNG+JKO ARG-을
+15 17 꾸+는 VV+ETM
+17 19 것+이 NNB+JKC ARG-이
+19 24 아니+ㄹ까+? VCN+EF+SF PRED:아니
+EOS
+0 3 그녀+는 NP+JX ARG-이,ARG-을
+3 6 아무런 MM
+6 8 말+도 NNG+JX ARG-이,ARG-을
+8 10 하+지 VV+EC PRED:하
+10 13 못하+고 VX+EC PRED:못하
+13 15 그+를 NP+JKO ARG-을
+15 20 쳐다보+고+만 VV+EC+JX PRED:쳐다보
+20 24 있+었+다+. VX+EP+EF+SF PRED:있
+EOS
+0 2 그+도 NP+JX ARG-이,ARG-을
+2 10 마찬가지+이+었+다+. NNG+VCP+EP+EF+SF PRED:마찬가지이
+EOS
+0 3 옆+에서 NNG+JKB ARG-에서
+3 6 서럽+게 VA+EC PRED:서럽
+6 8 울+는 VV+ETM
+8 10 중년 NNG
+10 13 남녀+의 NNG+JKG
+13 17 목소리+가 NNG+JKS ARG-이
+17 22 들리+었+다+. VV+EP+EF+SF PRED:들리
+EOS
+0 5 누구+이+ㄴ가 NP+VCP+EC PRED:누구이
+5 8 죽+었+나 VV+EP+EC PRED:죽
+8 11 보+다+. VX+EF+SF PRED:보
+EOS
+0 4 응급실+은 NNG+JX ARG-이,ARG-을
+4 6 그런 MM
+6 11 곳+이+니까+. NNG+VCP+EF+SF PRED:곳이
+EOS
+0 4 간호사+가 NNG+JKS ARG-이
+4 9 싱글거리+며 VV+EC PRED:싱글거리
+9 12 커튼+은 NNG+JX ARG-이,ARG-을
+12 15 젖히+고 VV+EC PRED:젖히
+15 17 남+은 VV+ETM
+17 21 주사약+을 NNG+JKO ARG-을
+21 27 확인+하+았+다+. NNG+XSV+EP+EF+SF PRED:확인하
+EOS
+0 3 최경지 NNP
+3 5 씨+, NNB+SP
+5 8 주사기 NNG
+8 16 빼+어+드리+ㄹ게요+. VV+EC+VX+EF+SF PRED:빼
+EOS
+0 3 타박상 NNG
+3 6 외+에+는 NNB+JKB+JX ARG-이,ARG-을
+6 10 특별+하+ㄴ XR+XSA+ETM
+10 13 이상+이 NNG+JKS ARG-이
+13 15 없+는 VA+ETM
+15 18 것+으로 NNB+JKB ARG-으로
+18 26 확인+되+었+습니다+. NNG+XSV+EP+EF+SF PRED:확인되
+EOS
+0 8 *DQUOTE* SS
+8 14 고맙+습니다+. VA+EF+SF PRED:고맙
+14 22 *DQUOTE* SS
+EOS
+0 3 규혁+이 NNP+JKS ARG-이
+3 5 낮+은 VA+ETM
+5 9 목소리+로 NNG+JKB ARG-로
+9 11 대신 NNG
+11 17 대답+하+았+다+. NNG+XSV+EP+EF+SF PRED:대답하
+EOS
+0 4 간호사+가 NNG+JKS ARG-이
+4 6 그+를 NP+JKO ARG-을
+6 8 보+며 VV+EC PRED:보
+8 11 웃음+을 NNG+JKO ARG-을
+11 13 참+지 VV+EC PRED:참
+13 18 못하+았+다+. VX+EP+EF+SF PRED:못하
+EOS
+0 8 *DQUOTE* SS
+8 10 오늘 MAG
+10 12 아주 MAG
+12 14 유명 XR
+14 17 스타+가 NNG+JKC ARG-이
+17 23 되+시+었+어요+. VV+EP+EP+EF+SF PRED:되
+23 31 *DQUOTE* SS
+EOS
+0 3 경지+가 NNP+JKS ARG-이
+3 5 무슨 MM
+5 10 소리+이+ㄴ가 NNG+VCP+EC PRED:소리이
+10 12 싶+어 VX+EC PRED:싶
+12 16 간호사+를 NNG+JKO ARG-을
+16 22 쳐다보+았+다+. VV+EP+EF+SF PRED:쳐다보
+EOS
+0 3 그래서 MAJ
+3 5 아까 MAG
+5 9 머리칼+이 NNG+JKS ARG-이
+9 14 헝클어지+ㄴ VV+ETM
+14 16 채+로 NNB+JKB ARG-로
+16 18 울+고 VV+EC PRED:울
+18 23 있+었+구나+. VX+EP+EF+SF PRED:있
+EOS
+0 3 경지+는 NNP+JX ARG-이,ARG-을
+3 5 마음 NNG
+5 9 한구석+이 NNG+JKS ARG-이
+9 16 찡+하+아+지+었+다+. MAG+XSA+EC+VX+EP+EF+SF PRED:찡하
+EOS
+0 3 그녀+를 NP+JKO ARG-을
+3 5 잡+은 VV+ETM
+5 7 그+의 NP+JKG
+7 9 손+에 NNG+JKB ARG-에
+9 11 힘+이 NNG+JKS ARG-이
+11 17 들어가+았+다+. VV+EP+EF+SF PRED:들어가
+EOS
+0 8 *DQUOTE* SS
+8 11 오빠+, NNG+SP
+11 13 나+ㄴ NP+JX ARG-이,ARG-을
+13 18 괜찮+아요+. VA+EF+SF PRED:괜찮
+18 26 *DQUOTE* SS
+EOS
+0 4 간호사+가 NNG+JKS ARG-이
+4 8 웃+으면서 VV+EC PRED:웃
+8 10 비+ㄴ VV+ETM
+10 13 주사약 NNG
+13 15 병+을 NNG+JKO ARG-을
+15 20 챙기+었+다+. VV+EP+EF+SF PRED:챙기
+EOS
+0 3 아니+, IC+SP
+3 8 주차장+에서 NNG+JKB ARG-에서
+8 11 나오+는 VV+ETM
+11 13 차+가 NNG+JKS ARG-이
+13 15 시속 NNG
+15 23 100+킬로미터+로 SN+NNB+JKB ARG-로
+23 32 달리+어+나오+겠+어요+? VV+EC+VV+EP+EF+SF PRED:달리
+EOS
+0 5 주차장+에서 NNG+JKB ARG-에서
+5 8 나오+는 VV+ETM
+8 10 차+에 NNG+JKB ARG-에
+10 14 치+었+다고 VV+EP+EC PRED:치
+14 16 죽+는 VV+ETM
+16 19 사람+이 NNG+JKS ARG-이
+19 21 어디 NP
+21 25 있+어요+? VV+EF+SF PRED:있
+EOS
+0 8 *DQUOTE* SS
+8 9 이 MM
+9 14 정도+이+라서 NNG+VCP+EC PRED:정도이
+14 16 정말 MAG
+16 21 다행+이+야+. NNG+VCP+EF+SF PRED:다행이
+21 29 *DQUOTE* SS
+EOS
+0 8 *DQUOTE* SS
+8 13 보호자분+은 NNG+JX ARG-이,ARG-을
+13 16 환자+와 NNG+JKB ARG-와
+16 18 어떤 MM
+18 24 관계+이+에요+? NNG+VCP+EF+SF PRED:관계이
+24 32 *DQUOTE* SS
+EOS
+0 3 경지+가 NNP+JKS ARG-이
+3 6 재빨리 MAG
+6 8 말+을 NNG+JKO ARG-을
+8 12 잇+었+다+. VV+EP+EF+SF PRED:잇
+EOS
+0 8 *DQUOTE* SS
+8 10 저+의 NP+JKG
+10 16 남편+이+에요+. NNG+VCP+EF+SF PRED:남편이
+16 24 *DQUOTE* SS
+EOS
+0 3 규혁+이 NNP+JKS ARG-이
+3 6 그녀+를 NP+JKO ARG-을
+6 8 보+며 VV+EC PRED:보
+8 11 환하+게 VA+EC PRED:환하
+11 15 웃+었+다+. VV+EP+EF+SF PRED:웃
+EOS
+0 8 *DQUOTE* SS
+8 10 네+, IC+SP
+10 14 그러+죠+. VV+EF+SF PRED:그러
+14 22 *DQUOTE* SS
+EOS
+0 4 간호사+가 NNG+JKS ARG-이
+4 7 나가+자 VV+EC PRED:나가
+7 10 규혁+이 NNP+JKS ARG-이
+10 13 경지+의 NNP+JKG
+13 16 눈가+에 NNG+JKB ARG-에
+16 20 부드럽+게 VA+EC PRED:부드럽
+20 22 입+을 NNG+JKO ARG-을
+22 27 맞추+었+다+. VV+EP+EF+SF PRED:맞추
+EOS
+0 4 고맙+어+. VA+EF+SF PRED:고맙
+EOS
+0 3 그리고 MAJ
+3 8 미안+하+아+. XR+XSA+EF+SF PRED:미안하
+EOS
+0 8 *DQUOTE* SS
+8 13 괜찮+아요+. VA+EF+SF PRED:괜찮
+13 21 *DQUOTE* SS
+EOS
+0 3 나+…+… NP+SE+SE
+3 6 질투+에 NNG+JKB ARG-에
+6 8 눈+이 NNG+JKS ARG-이
+8 11 멀+어서 VA+EC PRED:멀
+11 15 제정신+이 NNG+JKC ARG-이
+15 20 아니+었+어+. VCN+EP+EF+SF PRED:아니
+EOS
+0 2 네+가 NP+JKS ARG-이
+2 3 알 NNP
+3 7 로버릭+을 NNP+JKO ARG-을
+7 13 좋아하+ㄴ다는 VV+ETM
+13 19 생각+만+으로+도 NNG+JX+JKB+JX ARG-이,ARG-을
+19 22 미치+ㄹ VV+ETM
+22 23 것 NNB
+23 28 같+았+거든+. VA+EP+EF+SF PRED:같
+EOS
+0 2 참+, IC+SP
+2 4 나+는 NP+JX ARG-이,ARG-을
+4 7 햄릿+이 NNP+JKC ARG-이
+7 11 아니+ㄴ데 VCN+EC PRED:아니
+11 16 상관없+어+? VA+EF+SF PRED:상관없
+EOS
+0 3 경지+는 NNP+JX ARG-이,ARG-을
+3 5 손+을 NNG+JKO ARG-을
+5 7 들+어 VV+EC PRED:들
+7 11 부드럽+게 VA+EC PRED:부드럽
+11 13 그+의 NP+JKG
+13 16 머리+를 NNG+JKO ARG-을
+16 23 어루만지+었+다+. VV+EP+EF+SF PRED:어루만지
+EOS
+0 6 모르+았+어요+? VV+EP+EF+SF PRED:모르
+EOS
+0 3 질투+에 NNG+JKB ARG-에
+3 6 눈멀+ㄴ VV+ETM
+6 10 오델로+가 NNP+JKC ARG-이
+10 14 아니+고+? VCN+EF+SF PRED:아니
+EOS
+0 3 경지+의 NNP+JKG
+3 5 말+에 NNG+JKB ARG-에
+5 10 규혁*+이* NNP+JKS ARG-이
+10 13 기쁨+에 NNG+JKB ARG-에
+13 15 차+서 VV+EC PRED:차
+15 21 속삭이+었+다+. VV+EP+EF+SF PRED:속삭이
+EOS
+0 5 규혁*+이* NNP+JKS ARG-이
+5 9 우아+하+게 XR+XSA+EC PRED:우아하
+9 12 절+하+는 NNG+XSV+ETM
+12 15 시늉+을 NNG+JKO ARG-을
+15 17 하+자 VV+EC PRED:하
+17 20 경지+는 NNP+JX ARG-이,ARG-을
+20 24 소리+내+어 NNG+VV+EC PRED:내
+24 28 웃+었+다+. VV+EP+EF+SF PRED:웃
+EOS
+0 2 그+가 NP+JKS ARG-이
+2 5 점잖+게 VA+EC PRED:점잖
+5 7 다시 MAG
+7 12 말+하+았+다+. NNG+XSV+EP+EF+SF PRED:말하
+EOS
+0 2 우리 NP
+2 8 나라+뿐+이+랴+. NNG+JX+VCP+EF+SF PRED:나라뿐이
+EOS
+0 3 그런데 MAJ
+3 8 이상+하+게+도 XR+XSA+EC+JX PRED:이상하
+8 11 그때+는 NNG+JX ARG-이,ARG-을
+11 13 나+의 NP+JKG
+13 16 과거+로 NNG+JKB ARG-로
+16 20 돌아가+고 VV+EC PRED:돌아가
+20 23 싶+다는 VX+ETM
+23 26 생각+은 NNG+JX ARG-이,ARG-을
+26 28 들+지 VV+EC PRED:들
+28 32 않+았+다+. VX+EP+EF+SF PRED:않
+EOS
+0 4 스쿠르지 NNP
+4 8 영감+처럼 NNG+JKB ARG-처럼
+8 12 회개+하+고 NNG+XSV+EC PRED:회개하
+12 16 되새김+질 NNG+XSN
+16 18 하+ㄹ VV+ETM
+18 21 나이+가 NNG+JKC ARG-이
+21 25 아니+어서 VCN+EC PRED:아니
+25 29 그러+었+을 VV+EP+ETM PRED:그러
+29 33 터+이+다+. NNB+VCP+EF+SF PRED:터이
+EOS
+0 3 물론+, MAG+SP
+3 6 지금+도 NNG+JX ARG-이,ARG-을
+6 9 인생+을 NNG+JKO ARG-을
+9 13 마감+하+며 NNG+XSV+EC PRED:마감하
+13 18 되돌아보+ㄹ VV+ETM
+18 21 시기+는 NNG+JX ARG-이,ARG-을
+21 23 아직 MAG
+23 27 아니+다+. VCN+EF+SF PRED:아니
+EOS
+0 2 글+을 NNG+JKO ARG-을
+2 4 쓰+는 VV+ETM
+4 8 사람+에게 NNG+JKB ARG-에게
+8 11 글+이란 NNG+JX ARG-이,ARG-을
+11 17 배설물+이+고+, NNG+VCP+EC+SP PRED:배설물이
+17 20 자식+과 NNG+JKB ARG-과
+20 23 같+고+, VA+EC+SP PRED:같
+23 26 자신+의 NNG+JKG
+26 31 일부+이+기+도 NNG+VCP+ETN+JX ARG-이,ARG-을
+31 36 하+다던가+. VX+EF+SF PRED:하
+EOS
+0 3 이것+ㄹ NP+JKO ARG-을
+3 6 어떻+게 VA+EC PRED:어떻
+6 9 세상+에 NNG+JKB ARG-에
+9 13 내놓+나+, VV+EC+SP PRED:내놓
+13 20 쥐구멍+에+이+라도 NNG+JKB+VCP+EC PRED:쥐구멍에이
+20 27 들어가+아+버리+고 VV+EC+VX+EC PRED:들어가
+27 29 싶+은 VX+ETM
+29 32 심정+도 NNG+JX ARG-이,ARG-을
+32 34 문득 MAG
+34 38 들+었+다+. VV+EP+EF+SF PRED:들
+EOS
+0 4 고치+려면 VV+EC PRED:고치
+4 6 새로 MAG
+6 14 쓰+어야+하+겠+구나+, VV+EC+VX+EP+EC+SP PRED:쓰
+14 15 다 MAG
+15 25 뜯어고치+어야+하+겠+구나 VV+EC+VX+EP+EC PRED:뜯어고치
+25 30 생각+하+기+도 NNG+XSV+ETN+JX ARG-이,ARG-을
+30 35 하*+았+다+. VX+EP+EF+SF PRED:하*
+EOS
+0 3 하지만 MAJ
+3 6 고치+지 VV+EC PRED:고치
+6 9 않+기+로 VX+ETN+JKB ARG-로
+9 13 하+았+다+. VV+EP+EF+SF PRED:하
+EOS
+0 4 칼+질+하+지 NNG+XSN+XSV+EC PRED:칼질하
+4 7 않+기+로 VX+ETN+JKB ARG-로
+7 11 하+았+다+. VV+EP+EF+SF PRED:하
+EOS
+0 8 *SQUOTE* SS
+8 11 김지혜 NNP
+11 13 씨+, NNB+SP
+13 15 어쩜 MAG
+15 18 이렇+게 VA+EC PRED:이렇
+18 21 작품+과 NNG+JKB ARG-과
+21 24 똑같+은 VA+ETM
+24 30 분+이+시+어요+? NNB+VCP+EP+EF+SF PRED:분이
+30 38 *SQUOTE* SS
+EOS
+0 3 원고+를 NNG+JKO ARG-을
+3 5 가만 MAG
+5 10 들여다보+고 VV+EC PRED:들여다보
+10 14 있+노라니 VX+EC PRED:있
+14 19 무엇+보다+도 NP+JKB+JX ARG-이,ARG-을
+19 20 그 MM
+20 22 말+이 NNG+JKS ARG-이
+22 24 먼저 MAG
+24 30 떠오르+았+다+. VV+EP+EF+SF PRED:떠오르
+EOS
+0 3 어쩌면 MAG
+3 6 이렇+게 VA+EC PRED:이렇
+6 8 나+랑 NP+JKB ARG-랑
+8 13 똑같+을까+. VA+EF+SF PRED:똑같
+EOS
+0 3 웃음+이 NNG+JKS ARG-이
+3 5 절로 MAG
+5 9 나+았+다+. VV+EP+EF+SF PRED:나
+EOS
+0 5 신기+하+게+도 XR+XSA+EC+JX PRED:신기하
+5 8 주인공 NNG
+8 12 최경지+의 NNP+JKG
+12 15 나이+는 NNG+JX ARG-이,ARG-을
+15 22 스물+여덟+이+다+. NR+NR+VCP+EF+SF PRED:여덟이
+EOS
+0 2 바로 MAG
+2 5 지금* NNG
+5 7 나+의 NP+JKG
+7 10 나이+와 NNG+JKB ARG-와
+10 13 같+다+. VA+EF+SF PRED:같
+EOS
+0 2 5+년 SN+NNB
+2 4 전+의 NNG+JKG
+4 6 내+가 NP+JKS ARG-이
+6 9 나+에게 NP+JKB ARG-에게
+9 15 묻+어+오+ㄴ다+. VV+EC+VX+EF+SF PRED:묻
+EOS
+0 4 어떻+어+? VA+EF+SF PRED:어떻
+EOS
+0 2 5+년 SN+NNB
+2 4 동안 NNG
+4 7 열심히 MAG
+7 11 살+았+어+? VV+EP+EF+SF PRED:살
+EOS
+0 2 꿈+을 NNG+JKO ARG-을
+2 5 이루+고 VV+EC PRED:이루
+5 7 있+는 VX+ETM
+7 11 거+이+야+? NNB+VCP+EF+SF PRED:거이
+EOS
+0 3 미래+의 NNG+JKG
+3 5 나+를 NP+JKO ARG-을
+5 10 자랑+스럽+게 NNG+XSA+EC PRED:자랑스럽
+10 14 여기+어도 VV+EC PRED:여기
+14 18 되+ㄹ까+? VV+EF+SF PRED:되
+EOS
+0 2 나+는 NP+JX ARG-이,ARG-을
+2 5 가만히 MAG
+5 9 웃+는다+. VV+EF+SF PRED:웃
+EOS
+0 2 이제 MAG
+2 3 또 MAG
+3 6 시간+은 NNG+JX ARG-이,ARG-을
+6 7 한 MM
+7 12 방향+으로+만 NNG+JKB+JX ARG-이,ARG-을
+12 18 흘러가+겠+지+. VV+EP+EF+SF PRED:흘러가
+EOS
+0 2 그때 NNG
+2 6 부끄럽+지 VA+EC PRED:부끄럽
+6 10 않+았+으면 VX+EP+EC PRED:않
+10 14 좋+겠+다+, VA+EP+EC+SP PRED:좋
+14 18 창피+하+지 NNG+XSA+EC PRED:창피하
+18 22 않+았+으면 VX+EP+EC PRED:않
+22 26 좋+겠+다+, VA+EP+EC+SP PRED:좋
+26 29 가만히 MAG
+29 37 속삭이+어+보+ㄴ다+. VV+EC+VX+EF+SF PRED:속삭이
+EOS
+0 5 {+공녀+}+를 SS+NNP+SS+JKO ARG-을
+5 7 읽+고 VV+EC PRED:읽
+7 8 이 MM
+8 10 책+을 NNG+JKO ARG-을
+10 14 집+어+들+ㄴ VV+EC+VX+ETM PRED:집
+14 18 독자+들+은 NNG+XSN+JX ARG-이,ARG-을
+18 20 다소 MAG
+20 27 실망+스럽+ㄹ지+도 NNG+XSA+EC+JX PRED:실망스럽
+27 32 모르+겠+다+. VV+EP+EF+SF PRED:모르
+EOS
+0 2 처음 NNG
+2 3 이 MM
+3 6 원고+를 NNG+JKO ARG-을
+6 9 쓰+려고 VV+EC PRED:쓰
+9 12 하+았+던 VX+EP+ETM PRED:하
+12 14 때+가 NNG+JKS ARG-이
+14 20 생각나+ㄴ다+. VV+EF+SF PRED:생각나
+EOS
+0 4 {+공녀+} SS+NNP+SS
+4 7 후기+에 NNG+JKB ARG-에
+7 10 이름+이 NNG+JKS ARG-이
+10 13 나오+지 VV+EC PRED:나오
+13 17 않+았+다고 VX+EP+EC PRED:않
+17 20 불만+이 NNG+JKS ARG-이
+20 23 대단히 MAG
+23 29 심하+았었+다+. VA+EP+EF+SF PRED:심하
+EOS
+0 3 덕분+에 NNG+JKB ARG-에
+3 8 타지+에서+의 NNG+JKB+JKG ARG-에서
+8 11 생활+이 NNG+JKS ARG-이
+11 14 외롭+지 VA+EC PRED:외롭
+14 18 않+았+다+. VX+EP+EF+SF PRED:않
+EOS
+0 3 어느덧 MAG
+3 5 봄+이 NNG+JKS ARG-이
+5 7 오+아 VV+EC PRED:오
+7 10 있+다+. VX+EF+SF PRED:있
+EOS
+0 2 이제 MAG
+2 3 또 MAG
+3 6 여름+이 NNG+JKC ARG-이
+6 10 되+겠+지+. VV+EP+EF+SF PRED:되
+EOS
+0 3 세월+은 NNG+JX ARG-이,ARG-을
+3 4 참 MAG
+4 7 빠르+ㄴ VA+ETM
+7 8 것 NNB
+8 11 같+다+. VA+EF+SF PRED:같
+EOS
+0 2 이제 MAG
+2 8 어설프+게+나마 VA+EC+JX PRED:어설프
+8 11 하나+를 NR+JKO ARG-을
+11 18 정리+하+았+으니+, NNG+XSV+EP+EC+SP PRED:정리하
+18 20 나+ㄴ NP+JX ARG-이,ARG-을
+20 22 다시 MAG
+22 26 칙칙+하+ㄴ XR+XSA+ETM
+26 29 겨울비 NNG
+29 32 속+으로 NNG+JKB ARG-으로
+32 41 들어가+아야+하+겠+다+. VV+EC+VX+EP+EF+SF PRED:들어가
+EOS

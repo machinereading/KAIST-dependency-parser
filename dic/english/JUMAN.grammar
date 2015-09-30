@@ -1,0 +1,67 @@
+;;; Penn Treebank tagset
+
+((DT %))
+
+((CC %))
+
+((CD %))
+
+((EX %))
+
+((FW %))
+
+((IN %))
+
+((JJ)
+	((JJ)
+	 (JJR)
+	 (JJS)))
+
+((LS %))
+
+((MD %))
+
+((NN)
+       ((NN)
+	(NNS)
+	(NNP)
+	(NNPS)))
+
+((PDT %))
+
+((POS %))
+
+((PR)
+       ((PRP)
+	(PRP$)))
+
+((RB)
+       ((RB)
+	(RBR)
+	(RBS)))
+
+((RP %))
+
+((SYM %))
+
+((TO %))
+
+((UH %))
+
+((VB)
+       ((VB)
+	(VBD)
+	(VBG)
+	(VBN)
+	(VBP)
+	(VBZ)))
+
+((WDT %))
+
+((WP)
+       ((WP)
+	(WP$)))
+
+((WRB %))
+
+((. %))

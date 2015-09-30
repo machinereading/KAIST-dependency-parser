@@ -1,0 +1,3126 @@
+( ((BP_TYPE:MAG))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:MAG)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+JX)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+ETM)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:MAG+XSV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:VV+ETN)) R]
+	 [((BP_TYPE:NNG+XSV+EP+ETM)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:MAG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:VV+EP+ETN+JKB)) R]
+	 [((BP_TYPE:MAG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EC)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:VV+EC+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM+SP)) R]
+	 [((BP_TYPE:XPN+NNG+XSN+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:XPN+NNG+XSA+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+VX+EP+EC)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EC)) R]
+	 [((BP_TYPE:MAG+XSV+EP+EC)) R]
+	 [((BP_TYPE:SN+NNB+VCP+EC)) R]
+	 [((BP_TYPE:VA+EC+VX+ETM)) R]
+	 [((BP_TYPE:VV+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSA+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+JX)) R]
+	 [((BP_TYPE:MAG+VV+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EC)) R]
+	 [((BP_TYPE:VA+EP+ETM)) R]
+	 [((BP_TYPE:VA+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VA+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNG+VCP+EC+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EP+ETN)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EC)) R]
+	 [((BP_TYPE:VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JKB)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:VA+EC+VX+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+ETM)) R]
+	 [((BP_TYPE:NNB+XSN+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSA+ETM)) R]
+	 [((BP_TYPE:NNG+XSA+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+ETN+JX)) R]
+	 [((BP_TYPE:NNG+VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:SN+NNB+JX)) R]
+	 [((BP_TYPE:VCN+EC+VCP+EF+SF)) R]
+	 [((BP_TYPE:NP+JKB+VCP+EC)) R]
+	 [((BP_TYPE:MAG+XSV+ETN+JX)) R]
+	 [((BP_TYPE:VV+EC+SF)) R]
+	 [((BP_TYPE:VA+EC+JKS)) R]
+	 [((BP_TYPE:NNG+VV+ETM)) R]
+	 [((BP_TYPE:NNB+JX+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EC)) L]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+ETM)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VX+EP+EC+SP)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:VX+EP+EC)) R]
+	 [((BP_TYPE:NNG+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) L]
+	 [((BP_TYPE:NNG+XSV+EC+VX+ETM)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JX+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+ETN+JX)) R]
+	 [((BP_TYPE:VV+EP+EF+JX+SF)) R]
+	 [((BP_TYPE:VV+ETN)) R]
+	 [((BP_TYPE:NNG+VCP+ETM+NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+EC+JX)) R]
+	 [((BP_TYPE:VV+EC+VV+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+ETN+VCP+EC)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:VX+EC+SP)) R]
+	 [((BP_TYPE:VV+ETN+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSA+ETM)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:MAG+VCP+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EC+SP)) L]
+	 [((BP_TYPE:NNG+XSN+VCP+EC)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VX+EP+EC+JX)) R]
+	 [((BP_TYPE:VV+EP+EC+JX)) R]
+	 [((BP_TYPE:VX+EP+ETN)) R]
+	 [((BP_TYPE:VX+EC+JKS)) R]
+	 [((BP_TYPE:VX+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) L]
+	 [((BP_TYPE:VV+EP+ETN)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:NNB+XSA+ETM)) R]
+	 [((BP_TYPE:VX+EC+JX)) R]
+	 [((BP_TYPE:NNG+XSA+EF+SF)) R]
+	 [((BP_TYPE:MAG+VCP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN+JKS)) R]
+	 [((BP_TYPE:VX+EC+VX+EC)) R]
+	 [((BP_TYPE:MAG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:VA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+ETN+EC)) R]
+	 [((BP_TYPE:VA+EC+JKS)) R])
+	() 1 )
+( ((BP_TYPE:NNG))
+	([((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:NNP+JKS)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:MAG)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+JKB)) R]
+	 [((BP_TYPE:NNP+JX)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+XSN+JKG)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNG+XSN)) R]
+	 [((BP_TYPE:NNG+XSA+EC)) R]
+	 [((BP_TYPE:NNG+XSN+JKS)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+JKG)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:MAG+XSA+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+ETM+NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VA+EC+JX)) R]
+	 [((BP_TYPE:NNG+XSV+ETN+JX)) R]
+	 [((BP_TYPE:NNG+VV+EP+ETM)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:VV+ETN+JKO)) R]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+SE)) R]
+	 [((BP_TYPE:VV+EC+VV+ETM)) R]
+	 [((BP_TYPE:NP+XSA+EC)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNP+JC)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+VA+EF+SF)) R]
+	 [((BP_TYPE:NP+JKS+JX)) R]
+	 [((BP_TYPE:NNP+VCP+EC)) R]
+	 [((BP_TYPE:NNB+JKC)) R]
+	 [((BP_TYPE:NNG+VCP+EC+SP)) R]
+	 [((BP_TYPE:VA+EP+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:NNB+JKG)) R]
+	 [((BP_TYPE:NNG+XSN+JKO)) R]
+	 [((BP_TYPE:NNG+NR)) R]
+	 [((BP_TYPE:NNP+JKC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EC)) R]
+	 [((BP_TYPE:VV+EC+VV+ETN+JX)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+ETM)) R]
+	 [((BP_TYPE:NNG+XSA+EF+SF)) R]
+	 [((BP_TYPE:SN+JX)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NR+JKB)) R]
+	 [((BP_TYPE:NNB+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:NNG+JX+VV+ETM)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EC)) R]
+	 [((BP_TYPE:VA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+NNB+VCP+ETM)) R]
+	 [((BP_TYPE:VV+EC+SF)) R]
+	 [((BP_TYPE:NNG+JC)) R]
+	 [((BP_TYPE:NNP+JKO)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JKO))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:VV+EC+VV+EC)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:NNB+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:MAG+XSV+EC)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:NNB+XSA+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+ETN)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+ETM)) R]
+	 [((BP_TYPE:MAG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+ETN)) R]
+	 [((BP_TYPE:MAG+XSV+EC+JX)) R]
+	 [((BP_TYPE:VV+EC+VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+ETN+JKB)) R]
+	 [((BP_TYPE:VV+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSV+EC)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:NNB+JX+SP)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM+SE)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+ETM)) R]
+	 [((BP_TYPE:MAG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:MAG+XSV+ETN+JX)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JKB))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:MAG)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+ETM)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EC)) R]
+	 [((BP_TYPE:VV+ETN+JKO)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC+JX)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+ETM)) R]
+	 [((BP_TYPE:VA+EP+EC)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+XSV+EC+SP)) R]
+	 [((BP_TYPE:VV+ETN)) R]
+	 [((BP_TYPE:NNG+VCP+ETM+NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+ETM)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+ETN)) R]
+	 [((BP_TYPE:VA+EC+VX+ETM)) R]
+	 [((BP_TYPE:VV+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNB+JX+SP)) R]
+	 [((BP_TYPE:NNG+VCP+EC+SP)) R]
+	 [((BP_TYPE:VA+EP+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EC)) R]
+	 [((BP_TYPE:VA+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+SP)) R]
+	 [((BP_TYPE:VV+EP+ETN)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:VV+ETN+JKB)) R]
+	 [((BP_TYPE:VV+EC+VX+EC+SP)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:VV+EC+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN+JKB+JX)) R]
+	 [((BP_TYPE:NNB+JX+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+JX)) L]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+JX)) R]
+	 [((BP_TYPE:NNB+XSA+ETM)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNP+JKS)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN)) R]
+	 [((BP_TYPE:NNP+JKG)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNB+JKC)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:NP+JX)) R]
+	 [((BP_TYPE:NNB+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:NP+JKG)) R]
+	 [((BP_TYPE:NP+JKO)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JKO)) R]
+	 [((BP_TYPE:XPN+NNG+JKO)) R]
+	 [((BP_TYPE:NNG+XSN+JKG)) R]
+	 [((BP_TYPE:NNG+JX+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JX+JKB+JX)) R]
+	 [((BP_TYPE:NNB+VCP+EC+SP)) R]
+	 [((BP_TYPE:NNB+XSV+EC)) R]
+	 [((BP_TYPE:NNB+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EC+JKS)) R]
+	 [((BP_TYPE:NNB+JX+SP)) R]
+	 [((BP_TYPE:NP+JKS)) R]
+	 [((BP_TYPE:NNB+JKS+SP)) R]
+	 [((BP_TYPE:NNB+ETM)) R]
+	 [((BP_TYPE:XPN+NNG+JKS)) R]
+	 [((BP_TYPE:NNB+XSN+JX)) R]
+	 [((BP_TYPE:NNB+JX+JKC)) R]
+	 [((BP_TYPE:NNP+NNG+JKO)) R]
+	 [((BP_TYPE:XPN+NNG+JX)) R]
+	 [((BP_TYPE:NNG+JC)) R]
+	 [((BP_TYPE:NNP+JKO)) R]
+	 [((BP_TYPE:NNG+SP)) R]
+	 [((BP_TYPE:NNB+JX+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JKS))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:NP+VCP+EC)) R]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EC)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EC)) R]
+	 [((BP_TYPE:NR+VCP+EC+SP)) R]
+	 [((BP_TYPE:MAG+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:VV+ETN)) R]
+	 [((BP_TYPE:VA+EC+JX)) R]
+	 [((BP_TYPE:VV+EC+VV+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN+JKO)) R]
+	 [((BP_TYPE:XR+XSA+EP+EC)) R]
+	 [((BP_TYPE:NNG+XSA+ETM)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+ETM)) R]
+	 [((BP_TYPE:VCN+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VCP+EC)) R]
+	 [((BP_TYPE:NNG+SP)) R]
+	 [((BP_TYPE:XR+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NP+VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+ETN)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:VA+EC+VX+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+ETM)) R]
+	 [((BP_TYPE:NNB+XSA+ETM)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:VV+ETN+JKS)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:MM))
+	([((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNG+XSN+JKS)) R]
+	 [((BP_TYPE:NNG+SP)) R]
+	 [((BP_TYPE:NNP+JKB)) R]
+	 [((BP_TYPE:NNG+VCP+EC+JX)) R]
+	 [((BP_TYPE:NNB+JKB+JX)) R]
+	 [((BP_TYPE:NNB+XSN)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKC)) R]
+	 [((BP_TYPE:NNB+XSN+JX)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKG)) R]
+	 [((BP_TYPE:SN+NNB)) R]
+	 [((BP_TYPE:NNG+JKV+SP)) R]
+	 [((BP_TYPE:NNG+XSN+JKO)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VCP+EC+JX)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+XSN+JKB)) R]
+	 [((BP_TYPE:NNG+ETM)) R]
+	 [((BP_TYPE:NNP+JKG)) R]
+	 [((BP_TYPE:NNB+XSN+JKB+JX)) R]
+	 [((BP_TYPE:NNG+EF+SF)) R]
+	 [((BP_TYPE:NNB+SP)) R]
+	 [((BP_TYPE:NNP+VCP+EC)) R]
+	 [((BP_TYPE:NNB+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:SN+NNB+JX)) R]
+	 [((BP_TYPE:NNG+JX+SE)) R]
+	 [((BP_TYPE:NNP+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JX))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VA+EP+EC)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VCN+EC)) R]
+	 [((BP_TYPE:XPN+NNG+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EC)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:VA+EP+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:VCN+EP+EC)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EC)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EC)) R]
+	 [((BP_TYPE:NR+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VV+EP+EC+JX)) R]
+	 [((BP_TYPE:VA+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+ETM)) R]
+	 [((BP_TYPE:VCN+EC+SP)) R]
+	 [((BP_TYPE:VV+EP+EC+SE)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:MAG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VA+ETM)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN+JKS)) R]
+	 [((BP_TYPE:VA+EC+JKS)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JX))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNB+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:MAG+XSV+EC)) R]
+	 [((BP_TYPE:NNP+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EC)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:NNG+VCP+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:MAG)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:VX+EP+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+JX)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+ETM)) R]
+	 [((BP_TYPE:XR+XSV+EC)) R]
+	 [((BP_TYPE:NNG+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+SP)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EC)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:NNG+XSN+JKB)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:XR+XSA+EP+EC)) R]
+	 [((BP_TYPE:VV+EC+SP)) L]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:VX+EC+JX)) R]
+	 [((BP_TYPE:NNG+XSA+EC)) R]
+	 [((BP_TYPE:NNG+XSA+ETM)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:MAG+VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) L]
+	 [((BP_TYPE:XPN+NNG+XSV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+JX))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+JX)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EC)) R]
+	 [((BP_TYPE:NR+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSA+EC)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VA+EP+EC)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNB+JX+SP)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NR+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VA+EC+JKS)) R]
+	 [((BP_TYPE:NNB+JX+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+ETM))
+	([((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:NNG+XSN+JKS)) R]
+	 [((BP_TYPE:NNP)) R]
+	 [((BP_TYPE:NNB+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+XSN+JKO)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+JKS)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNG+JC)) R]
+	 [((BP_TYPE:XPN+NNG+JKB)) R])
+	() 1 )
+( ((BP_TYPE:SS))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG)) L]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EC)) L]
+	 [((BP_TYPE:NNP)) R]
+	 [((BP_TYPE:NNP)) L]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:SS)) R]
+	 [((BP_TYPE:NNP+NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:VV+EC+VV+EF+SF)) R]
+	 [((BP_TYPE:VV+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:NNB+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSA+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKS))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VCN+EC)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNG+VCP+EP+ETN)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EP+ETM)) R]
+	 [((BP_TYPE:VV+EC+VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:MAG+XSV+EP+EC)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+EC+SP)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:MAG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN+EC)) R]
+	 [((BP_TYPE:NP+VCP+EC)) R]
+	 [((BP_TYPE:NNG+JKB+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB))
+	([((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:MAG+XSV+EC)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:VCN+EC)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:MAG)) R]
+	 [((BP_TYPE:VA+EC+JX)) R]
+	 [((BP_TYPE:VV+ETN+JKO)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+JKS)) R]
+	 [((BP_TYPE:VV+EC+SE)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKG))
+	([((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNP+JKO)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNG+XSN+JKC)) R]
+	 [((BP_TYPE:XPN+NNG+JKO)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EC)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:XPN+NNG+JKS)) R]
+	 [((BP_TYPE:NNG+XSN+JKS)) R])
+	() 1 )
+( ((BP_TYPE:NP))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+SP)) R]
+	 [((BP_TYPE:NNG+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NR+JKS)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EC)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:NNP+JX)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JKB)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSA+EC)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+JC)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAJ))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VV+ETN)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EC)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NP+VCP+EC)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNP))
+	([((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNB+SP)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNP+JKS)) R]
+	 [((BP_TYPE:NNP+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:NNP+JKB)) R]
+	 [((BP_TYPE:NNP)) R]
+	 [((BP_TYPE:NNP+JKB+JX)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNP+VCP+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NP)) R]
+	 [((BP_TYPE:NNG+JC)) R]
+	 [((BP_TYPE:NNP+JKO)) R]
+	 [((BP_TYPE:NNG+SP)) R]
+	 [((BP_TYPE:NNB+XSA+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JKS))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+ETN)) R]
+	 [((BP_TYPE:VV+EC+VV+EC)) R]
+	 [((BP_TYPE:VV+ETN+JKB+JX)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETN)) R]
+	 [((BP_TYPE:NP)) R]
+	 [((BP_TYPE:VV+EC+VX+ETM)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:NNG+ETM)) R])
+	() 1 )
+( ((BP_TYPE:VX+ETM))
+	([((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNP+JKS)) R]
+	 [((BP_TYPE:NNP+JKB)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+XSN+JKO)) R]
+	 [((BP_TYPE:NNB+VCP+ETM)) R]
+	 [((BP_TYPE:NNB+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JKG)) R]
+	 [((BP_TYPE:NNB+JKC)) R]
+	 [((BP_TYPE:NNP+JX)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+XSA+ETN+JKB+JX)) R]
+	 [((BP_TYPE:NP+JX)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:NNB+JKG)) R]
+	 [((BP_TYPE:NNP+JKG)) R]
+	 [((BP_TYPE:NNB+JX+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JKS)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EC))
+	([((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VX+EP+EC)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:VA+EC)) L]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+ETM)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:VX+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) L]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EC)) R]
+	 [((BP_TYPE:VA+EC+VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:IC+SP))
+	([((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:MAG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EC+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VV+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNP+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JKG))
+	([((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:NNP+JKC)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JX+JKS)) R]
+	 [((BP_TYPE:SN+JX)) R]
+	 [((BP_TYPE:NNG+XSN+JKS)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+ETM))
+	([((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EC)) R]
+	 [((BP_TYPE:NNG+XSN+JKO)) R]
+	 [((BP_TYPE:NP+VCP+EC+JKO)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNB+JKC)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NP+JKO)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:NP+JKB)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:NNG+JC)) R]
+	 [((BP_TYPE:NNG+NNB)) R]
+	 [((BP_TYPE:NNP+JKO)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNG+XSN+JKB+JX)) R]
+	 [((BP_TYPE:NNB+JKS)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+ETM))
+	([((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:NNB+XSA+ETM)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+JX)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNP+JKO)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNP+JKG)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JKG))
+	([((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNP+JKS)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+VCP+EC+JX)) R]
+	 [((BP_TYPE:NNP+JKC)) R]
+	 [((BP_TYPE:NNP+NNG+JKB)) R]
+	 [((BP_TYPE:NNP+JX)) R]
+	 [((BP_TYPE:NNP+JKB+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM+NNG+JKO)) R]
+	 [((BP_TYPE:NNG+XSN+JKS)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JX))
+	([((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:MAG+XSV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:VCN+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:MAG)) R]
+	 [((BP_TYPE:MAG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JKS))
+	([((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNP+XSN+VCP+ETM)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:NNB+XSN+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:XR+XSA+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKO))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EC)) R]
+	 [((BP_TYPE:VV+EC+JKC)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:NNG+XSV+ETN)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKB))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+VA+ETM)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:XPN+NNG+XSN+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VV+ETN)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:VA+EC+VX+EP+EC)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:VV+EC+VV+EC)) R]
+	 [((BP_TYPE:VV+ETN+JKO)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSA+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+JX)) R])
+	() 1 )
+( ((BP_TYPE:VX+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) L]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:NNG+NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VA+EC)) L]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+JX)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EC))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:MAG+XSV+EC)) L]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+ETN)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EC)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSN+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R])
+	() 1 )
+( ((BP_TYPE:VV+EP+EC))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EC)) R]
+	 [((BP_TYPE:VA+EC)) L]
+	 [((BP_TYPE:MAG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+ETM)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JKB))
+	([((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+ETN)) R]
+	 [((BP_TYPE:VV+EC+JX)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:VX+EP+EC)) R]
+	 [((BP_TYPE:SS)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JKB)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JKC))
+	([((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VCN+EC)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VCN+ETM+SP)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VCN+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VX+EC+SP)) R])
+	() 1 )
+( ((BP_TYPE:VV+EP+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+XSN+JKS)) R]
+	 [((BP_TYPE:NNB+VCP+EC+SP)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+SP)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETN))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+SP)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+JKB+JX)) R]
+	 [((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JKB+JX))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:MAG+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:XR+XSA+EP+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC+JKS)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+JX)) R])
+	() 1 )
+( ((BP_TYPE:VV+EF+SF))
+	([((BP_TYPE:SS)) R]
+	 [((BP_TYPE:NNG+JKB+SF)) R]
+	 [((BP_TYPE:VV+EC+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JKO))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC+JX)) R]
+	 [((BP_TYPE:VV+EP+ETN)) R]
+	 [((BP_TYPE:VV+EC+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JX+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JKB))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VA+EC+JKS)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+VV+ETM)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VX+EC))
+	([((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VX+EP+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:VX+EC+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+VCP+EC))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EC)) R]
+	 [((BP_TYPE:NNG+XSA+ETM)) R]
+	 [((BP_TYPE:VV+EP+EC+SE)) R])
+	() 1 )
+( ((BP_TYPE:NNP+SP))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNP+SP)) R]
+	 [((BP_TYPE:NNG+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VX+ETM))
+	([((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNB+JKC)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JKB+JX)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+JKB)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+ETM)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNB+VCP+EC))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EC)) L]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+JX))
+	([((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VX+EP+EC)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSA+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JKO))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+JKB))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+ETN+JKO)) R]
+	 [((BP_TYPE:NNG+XSV+ETN)) R]
+	 [((BP_TYPE:NNG+VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+ETM))
+	([((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNP+JKS)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNP+JKB)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNG+SP))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+SP)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+JKS))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VA+EC+VA+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+ETN+JX)) R]
+	 [((BP_TYPE:XPN+NNG+XSN+VCP+ETM)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R])
+	() 1 )
+( ((BP_TYPE:VV+EP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VV+EC))
+	([((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EC)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EC)) R]
+	 [((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+JX))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EC+EP+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:XR+XSA+EC)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JC))
+	([((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+SP)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNP+JKS)) R]
+	 [((BP_TYPE:NP+JC)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSA+ETM))
+	([((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNP+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+XSA+ETM)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+SP))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EF+SF))
+	([((BP_TYPE:SS)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VCN+EC))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EC)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:NNP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+SP)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAG+JX))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:NNG+XSA+ETM)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSA+EC))
+	([((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSV+EC)) R]
+	 [((BP_TYPE:VA+EP+EC)) R]
+	 [((BP_TYPE:VA+EC+SP)) R]
+	 [((BP_TYPE:NNG+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:NNG+XSA+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:XR+XSV+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+VCP+ETM))
+	([((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNG+JC)) R]
+	 [((BP_TYPE:NNP+JKG)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+VCP+EF+SF))
+	([((BP_TYPE:SS)) R]
+	 [((BP_TYPE:XR+XSA+EC)) L])
+	() 1 )
+( ((BP_TYPE:VV+ETN+JX))
+	([((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:VX+EC+SP)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:VA+EP+EC+SP)) R]
+	 [((BP_TYPE:VX+EP+EC)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+XSA+ETM))
+	([((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EP+ETM))
+	([((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNB+JKB)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSV+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VX+ETM)) R])
+	() 1 )
+( ((BP_TYPE:MAG+SP))
+	([((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:IC))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+ETM)) R]
+	 [((BP_TYPE:VA+EC+JX)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JKC))
+	([((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VCN+EC)) R])
+	() 1 )
+( ((BP_TYPE:VX+EP+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSV+ETN+JX)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+JX))
+	([((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EC+VX+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNG+XSN+JKG)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNP+JKO)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNB+JKB)) R])
+	() 1 )
+( ((BP_TYPE:NR))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+ETN+JX)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+SP))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NR+JX))
+	([((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EC+VX+EC))
+	([((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:XR+XSA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VV+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:XPN+NNG+XSN)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JKC)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:SN+NNB))
+	([((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKG)) R]
+	 [((BP_TYPE:SN+NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNB+JKB)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+JKG))
+	([((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VV+ETM))
+	([((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKS)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VV+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NP+VCP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+ETN))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R]
+	 [((BP_TYPE:VV+EC+VCP+EC)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VX+EP+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNP)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EP+EC))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EC+SP)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+SP))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:MAG+XSA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VV+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VX+EF+SF))
+	([((BP_TYPE:SS)) R]
+	 [((BP_TYPE:NNG+JKB+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JC))
+	([((BP_TYPE:NNP+JX)) R]
+	 [((BP_TYPE:NNP+JKO)) R]
+	 [((BP_TYPE:NNB+JX)) R]
+	 [((BP_TYPE:NNP+JKS)) R]
+	 [((BP_TYPE:NNP+JKG)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JKB+JX))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:MAG)) R])
+	() 1 )
+( ((BP_TYPE:MAJ+SP))
+	([((BP_TYPE:NNG+XSV+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSV+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAG+NNG))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JKV+SP))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNP+VCP+EC))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EC)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VX+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+JKO))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EC+SP)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EP+EC))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VCN+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETN+JKO))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:NNG+XSV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VCN+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+JKB)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EP+EC+SP))
+	([((BP_TYPE:NNG+VCP+EP+EC+SP)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EP+EC+SP))
+	([((BP_TYPE:VA+EC+JKS)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+SP))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNP+VCP+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JC)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKB+JX))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EC+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+JX)) R])
+	() 1 )
+( ((BP_TYPE:VA+EP+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSV+ETM))
+	([((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EC+JX))
+	([((BP_TYPE:VX+EP+ETM)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EC)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+XSN+JKG))
+	([((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VA+ETM))
+	([((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JC)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+VX+ETM))
+	([((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:SN+NNB+JX))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VX+EC+SP))
+	([((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+EC+VX+ETM))
+	([((BP_TYPE:NNB)) R]
+	 [((BP_TYPE:NNB+JKS)) R]
+	 [((BP_TYPE:NNG+JKO)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+XSN+JX))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:VA+EP+EF+SF))
+	([((BP_TYPE:SS)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VX+EP+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R])
+	() 1 )
+( ((BP_TYPE:NR+XSN))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NR+XSN)) R]
+	 [((BP_TYPE:VV+EC+VX+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JKG))
+	([((BP_TYPE:NNG+JKS)) R]
+	 [((BP_TYPE:NNG+JKB)) R]
+	 [((BP_TYPE:NNG+SP)) R]
+	 [((BP_TYPE:NR+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETN+JKB+JX))
+	([((BP_TYPE:XR+XSA+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+JC))
+	([((BP_TYPE:NP+JKB)) R]
+	 [((BP_TYPE:NNG+XSV+EP+EC)) R]
+	 [((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EC+SP))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EC)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JKV+SP))
+	([((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EC+JX))
+	([((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSV+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNP+VCP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSA+ETM))
+	([((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+JX)) R]
+	 [((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:NNG+ETM))
+	([((BP_TYPE:NNG+XSN+JX)) R]
+	 [((BP_TYPE:NNB+JKO)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JX+SE))
+	([((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VCN+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG+JKO))
+	([((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+EP+EC))
+	([((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:XR+XSA+ETM)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+VCP+EC))
+	([((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JKC))
+	([((BP_TYPE:VCN+EF+SF)) R]
+	 [((BP_TYPE:VCN+EC)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG+JKS))
+	([((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+JKS))
+	([((BP_TYPE:VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+XSN+JX))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VX+EP+EC+SP))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNP+NNG+JKO))
+	([((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NR+JKS))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+ETN+JKB+JX)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETN+JKB))
+	([((BP_TYPE:VA+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VX+EP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSA+EC))
+	([((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+EC+VX+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EP+EC+SP))
+	([((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EP+ETN))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNB+JKC)) R]
+	 [((BP_TYPE:NNB+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+JKB+JX))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VA+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNB+VCP+EC+SP))
+	([((BP_TYPE:NP+VCP+EF+SF)) R]
+	 [((BP_TYPE:VCN+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAJ+SE))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NP+JX+JKC))
+	([((BP_TYPE:VCN+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+XSN))
+	([((BP_TYPE:VV+EC+VX+EC)) R]
+	 [((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:VCN+EC+SP))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:SN+NNB+JKC))
+	([((BP_TYPE:VV+EC+VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VX+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:MAG+JKB))
+	([((BP_TYPE:XR+XSA+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:SN+NNB+JKS))
+	([((BP_TYPE:VV+EP+EC)) R]
+	 [((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NP+SP))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+SE))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EC+VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+VCP+EC+JKO))
+	([((BP_TYPE:VV+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSV+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNP+SF))
+	([((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETM+NNG))
+	([((BP_TYPE:MAG)) R]
+	 [((BP_TYPE:VV+EP+ETM)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+EC+VX+ETN))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VCN+EP+EC))
+	([((BP_TYPE:VA+EC+JX)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETN+JKS))
+	([((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EC)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG))
+	([((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JKB+JX))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+ETN+JX))
+	([((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:VA+ETN+JX))
+	([((BP_TYPE:VX+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EP+EC+JX))
+	([((BP_TYPE:VV+EC+VX+EP+EF+SF)) R]
+	 [((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EC+VX+EP+EC))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VX+EC+JX))
+	([((BP_TYPE:VA+EP+EF+SF)) R]
+	 [((BP_TYPE:VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NR+JKB))
+	([((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:NNG+VCP+EC+SP)) R])
+	() 1 )
+( ((BP_TYPE:SN+NNG))
+	([((BP_TYPE:NNG+JKB)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+VCP+EP+EC))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+VCP+ETM))
+	([((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNB)) R])
+	() 1 )
+( ((BP_TYPE:MAG+SE))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:SN+NNB+JKB))
+	([((BP_TYPE:VV+ETM)) R]
+	 [((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+EP+ETM))
+	([((BP_TYPE:NNB+VCP+EC)) R]
+	 [((BP_TYPE:NNB+XSN+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EP+EC+SP))
+	([((BP_TYPE:VV+EC+VV+EP+EF+SF)) R]
+	 [((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+ETN+JX))
+	([((BP_TYPE:VX+EC)) R]
+	 [((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG+JX))
+	([((BP_TYPE:VV+EF+SF)) R]
+	 [((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NP+XSN+JKB))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:SO))
+	([((BP_TYPE:NNG)) R]
+	 [((BP_TYPE:NNP+JKG)) L])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EC+SP))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+SF))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNP+NNG+JKB))
+	([((BP_TYPE:NNG+XSV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:IC+JX+SP))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+NNB+JX))
+	([((BP_TYPE:VCN+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSA+ETN+JKB+JX))
+	([((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+XSA+EC))
+	([((BP_TYPE:VX+EC)) R])
+	() 1 )
+( ((BP_TYPE:MAG+VV+EC))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:VCN+ETM+SP))
+	([((BP_TYPE:NNG+JKB)) R])
+	() 1 )
+( ((BP_TYPE:NNG+SE))
+	([((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+ETN+JKS))
+	([((BP_TYPE:VA+EC+VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETM+SE))
+	([((BP_TYPE:NNG+JKO)) R])
+	() 1 )
+( ((BP_TYPE:NNP+XSN+VCP+ETM))
+	([((BP_TYPE:NNB)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+JKC))
+	([((BP_TYPE:VCN+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MM+SE))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+SE))
+	([((BP_TYPE:VCN+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAJ+JX))
+	([((BP_TYPE:VV+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNG+NR))
+	([((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+MAG))
+	([((BP_TYPE:VV+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+JC))
+	([((BP_TYPE:NNG+XSN+JKB)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSN))
+	([((BP_TYPE:NNG+XSN+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EP+EC+JX))
+	([((BP_TYPE:VV+ETM)) R])
+	() 1 )
+( ((BP_TYPE:MAG+NNG+JKB))
+	([((BP_TYPE:VV+ETM)) R])
+	() 1 )
+( ((BP_TYPE:MM+NNB))
+	([((BP_TYPE:VV+EC+VX+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSA+ETN+JKO))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNB+XSA+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:XPN+XR+XSA+ETM))
+	([((BP_TYPE:NNG)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+JKS))
+	([((BP_TYPE:VX+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EC+JKS))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNP+SL+VCP+ETM))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETM+NNB))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+ETN+JKB))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EP+ETM))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VX+EC+VX+EC))
+	([((BP_TYPE:VX+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKB+VCP+EC))
+	([((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VV+ETN))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EP+ETN+EC))
+	([((BP_TYPE:VX+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+ETN+JKO))
+	([((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+XSV+EC))
+	([((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETM+NNG+JKO))
+	([((BP_TYPE:VV+ETM)) R])
+	() 1 )
+( ((BP_TYPE:VCN+ETN+JX))
+	([((BP_TYPE:VX+EC+SP)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKB+JX+JKS))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG+XSN))
+	([((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NR+VCP+EC+SP))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:IC+SF))
+	([((BP_TYPE:VV+EC+JX)) R])
+	() 1 )
+( ((BP_TYPE:SN+NNB+SP))
+	([((BP_TYPE:SN+NNB+JX)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKC))
+	([((BP_TYPE:VCN+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+VX+EP+EC))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSV+EC+JX))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VV+EP+ETM))
+	([((BP_TYPE:NNB+JKS)) R])
+	() 1 )
+( ((BP_TYPE:SN+NNB+VCP+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:JKQ))
+	([((BP_TYPE:VV+EC)) L])
+	() 1 )
+( ((BP_TYPE:NP+SE))
+	([((BP_TYPE:NNG+XSV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAG+VCP+EC))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JKS+SP))
+	([((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+VCP+EC+JKB))
+	([((BP_TYPE:VV+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NR+NNB))
+	([((BP_TYPE:NR+NNB+VCP+EC)) R])
+	() 1 )
+( ((BP_TYPE:NR+JKC))
+	([((BP_TYPE:VCN+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NR+NNB+VCP+EC))
+	([((BP_TYPE:NNG+VV+EC+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNP+XSN))
+	([((BP_TYPE:NNG+XSN+JKO)) R])
+	() 1 )
+( ((BP_TYPE:VX+EP+ETN))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VX+EC+JKS))
+	([((BP_TYPE:VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VV+EC+JX))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+VCP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VA+EC))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:VCP+EC+JX))
+	([((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VV+ETN+JX))
+	([((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VV+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNG+SH+VCP+ETM))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+VX+EC))
+	([((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+XSN))
+	([((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EP+ETN+JKB))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSA+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:SL))
+	([((BP_TYPE:NNG+JKB)) R])
+	() 1 )
+( ((BP_TYPE:NNB+XSN+JKB+JX))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSA+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NNP+NNG+JKS))
+	([((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+VCP+EP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:VX+ETM+SP))
+	([((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSN+JKC))
+	([((BP_TYPE:VCN+EC)) R])
+	() 1 )
+( ((BP_TYPE:NR+JKG))
+	([((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNB+ETM))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+XSN+JKS))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VV+EP+EC))
+	([((BP_TYPE:VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+VX+EP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VCP+EC))
+	([((BP_TYPE:NNG+XSV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+VV+EC))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MM+NNG))
+	([((BP_TYPE:MAG)) R])
+	() 1 )
+( ((BP_TYPE:MAC+SP))
+	([((BP_TYPE:NNG+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+XSN+JKO))
+	([((BP_TYPE:VA+EC)) R])
+	() 1 )
+( ((BP_TYPE:VX+ETN+JX))
+	([((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:JKS))
+	([((BP_TYPE:NNG)) L])
+	() 1 )
+( ((BP_TYPE:VX+ETN+VCP+EC))
+	([((BP_TYPE:VX+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+VCP+ETN+JX))
+	([((BP_TYPE:NP+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSV+EP+EC))
+	([((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+XSV+EC+VX+EP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKB+JKG))
+	([((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EP+EC+JX))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG+XSA+EC))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNP+XSN+JX))
+	([((BP_TYPE:XR+XSA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EP+EC))
+	([((BP_TYPE:NNG+XSN+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:IC+SE))
+	([((BP_TYPE:VV+EC+JX)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKS+JX))
+	([((BP_TYPE:NNG+XSV+EC+VX+EP+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+XSV+EC+VCP+EC))
+	([((BP_TYPE:VV+EC+VX+EC)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+EC+SP))
+	([((BP_TYPE:VA+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JKB+SF))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:SN+SP))
+	([((BP_TYPE:SN+NNB)) R])
+	() 1 )
+( ((BP_TYPE:NNP+JX+JKC))
+	([((BP_TYPE:VCN+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NA+SP))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:SN+JX))
+	([((BP_TYPE:VA+EC+JKS)) R])
+	() 1 )
+( ((BP_TYPE:NNP+NNG+JX))
+	([((BP_TYPE:VCN+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XR))
+	([((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:NNG+NNB+VCP+ETM))
+	([((BP_TYPE:NNG+JKS)) R])
+	() 1 )
+( ((BP_TYPE:MAG+XSV+ETN+JX))
+	([((BP_TYPE:VX+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JX+JKC))
+	([((BP_TYPE:VCN+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VA+ETM+SP))
+	([((BP_TYPE:NNG+JKS)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSV+EC))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:XR+XSA+EC+JX))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETN+VCP+EC))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+XSV+EC))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JX+JKS))
+	([((BP_TYPE:NNG+XSV+EC)) R])
+	() 1 )
+( ((BP_TYPE:VA+EC+VX+ETN))
+	([((BP_TYPE:NNG+XSV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JKQ))
+	([((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+JKB+SE))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:MAG+SF))
+	([((BP_TYPE:VV+EC+VX+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+VCP+EP+EC+SP))
+	([((BP_TYPE:NNG+XSA+EC)) R])
+	() 1 )
+( ((BP_TYPE:NNG+SF))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JX+SP))
+	([((BP_TYPE:VA+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:JX))
+	([((BP_TYPE:NNP)) L])
+	() 1 )
+( ((BP_TYPE:SL+JKO))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETN+JX+VCP+EC))
+	([((BP_TYPE:VV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VX+EP+EC+JX))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+NNB))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NP+VCP+ETM))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+XSA+EC))
+	([((BP_TYPE:VX+EC)) R])
+	() 1 )
+( ((BP_TYPE:SL+JX))
+	([((BP_TYPE:VV+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+VCP+EP+ETN))
+	([((BP_TYPE:NNB+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNB+JX+JKB+JX))
+	([((BP_TYPE:VV+ETM)) R])
+	() 1 )
+( ((BP_TYPE:NNP+NNG+VCP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG+XSN+VCP+ETM))
+	([((BP_TYPE:NNG+JX)) R])
+	() 1 )
+( ((BP_TYPE:MM+NR+JKS))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG+XSN+VCP+EC+JX))
+	([((BP_TYPE:VX+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG+XSN+VCP+EC))
+	([((BP_TYPE:VX+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EP+EC+SE))
+	([((BP_TYPE:NP+VCP+EP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VV+EC+VX+EC+SP))
+	([((BP_TYPE:VCN+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:XPN+NNG+JKB))
+	([((BP_TYPE:VV+ETM)) R])
+	() 1 )
+( ((BP_TYPE:MM+NNB+JX))
+	([((BP_TYPE:VV+EC)) R])
+	() 1 )
+( ((BP_TYPE:SL+JKB))
+	([((BP_TYPE:NNG+XSV+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:VX+EP+EF+SF))
+	([((BP_TYPE:SS)) R])
+	() 1 )
+( ((BP_TYPE:NP+XSN+NNB+JX))
+	([((BP_TYPE:VCN+EC+SP)) R])
+	() 1 )
+( ((BP_TYPE:NP+JX+SE))
+	([((BP_TYPE:NNG+VCP+EF+SF)) R])
+	() 1 )
+( ((BP_TYPE:NNG+JX+VV+ETM))
+	([((BP_TYPE:NNG+JKB)) R])
+	() 1 )
+( ((BP_TYPE:MAG+JKC))
+	([((BP_TYPE:VCN+EC)) R])
+	() 1 )
+( ((BP_TYPE:VV+ETN+EC))
+	([((BP_TYPE:VX+EP+EF+SF)) R])
+	() 1 )

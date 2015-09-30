@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<caseframedata>
+  <entry headword="あがく/あがく" predtype="動">
+    <caseframe id="あがく/あがく:動1">
+      <argument case="デ格" closest="1">
+        <component frequency="99">下/した</component>
+        <component frequency="41">中/なか</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="79">俺/おれ</component>
+        <component frequency="6">ＣＤ/しーでぃー?ＣＤ/ＣＤ+俺/おれ</component>
+        <component frequency="4">アルバム/あるばむ+俺/おれ</component>
+        <component frequency="3">恐怖/きょうふ</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あがく/あがく:動2">
+      <argument case="ト格" closest="1">
+        <component frequency="81" sm="1">&lt;補文&gt;</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あがく/あがく:動3">
+      <argument case="マデ格" closest="1">
+        <component frequency="68">最後/さいごa</component>
+        <component frequency="11">ギリギリ/ぎりぎり</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あがく/あがく:動4">
+      <argument case="ヲ格" closest="1">
+        <component frequency="44">何/なん?何/なに</component>
+        <component frequency="7">何/なに</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あがく/あがく:動5">
+      <argument case="ニ格" closest="1">
+        <component frequency="23" sm="1">&lt;補文&gt;</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あがく/あがく:動6">
+      <argument case="ガ格" closest="1">
+        <component frequency="7">人間/にんげん</component>
+        <component frequency="5">私/わたし</component>
+        <component frequency="5">御前/おまえ</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あがく/あがく:動7">
+      <argument case="ニ格" closest="1">
+        <component frequency="15">あがき/あがきv</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あがく/あがく:動8">
+      <argument case="マデ格" closest="1">
+        <component frequency="11" sm="1">&lt;時間&gt;</component>
+      </argument>
+    </caseframe>
+  </entry>
+  <entry headword="あざ笑う/あざわらう" predtype="動">
+    <caseframe id="あざ笑う/あざわらう:動1">
+      <argument case="ガ格">
+        <component frequency="2" sm="1">&lt;時間&gt;</component>
+        <component frequency="2">者/もの</component>
+        <component frequency="2">皆/みんな</component>
+      </argument>
+      <argument case="ヲ格" closest="1">
+        <component frequency="183">私/わたし</component>
+        <component frequency="80">自分/じぶん</component>
+        <component frequency="76">俺/おれ</component>
+        <component frequency="64">僕/ぼく</component>
+        <component frequency="64">彼/かれ</component>
+        <component frequency="47">人/じん?人/ひと</component>
+        <component frequency="31">人間/にんげん</component>
+        <component frequency="22">我々/われわれ</component>
+        <component frequency="18">警察/けいさつ</component>
+        <component frequency="16">彼女/かのじょ</component>
+        <component frequency="16">者/もの</component>
+        <component frequency="15">男/おとこ</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動2">
+      <argument case="ヲ格" closest="1">
+        <component frequency="65">努力/どりょく</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="4">人/じん?人/ひと</component>
+        <component frequency="3">彼/かれ</component>
+        <component frequency="2">人間/にんげん</component>
+        <component frequency="2">私/わたし</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動3">
+      <argument case="ヲ格" closest="1">
+        <component frequency="52">イエス/いえす</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動4">
+      <argument case="ヲ格" closest="1">
+        <component frequency="50" sm="1">&lt;補文&gt;</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動5">
+      <argument case="ヲ格" closest="1">
+        <component frequency="25">気持ち/きもち</component>
+        <component frequency="15">思い/おもいv</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="4">私/わたし</component>
+        <component frequency="3">俺/おれ</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動6">
+      <argument case="ヲ格" closest="1">
+        <component frequency="13">愚か/おろかa+さ/さ</component>
+        <component frequency="6">無い/ない+さ/さ</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="7">自ずから/おのずから?自ら/みずから</component>
+        <component frequency="3">知識/ちしき</component>
+        <component frequency="2">人間/にんげん</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動7">
+      <argument case="ヲ格" closest="1">
+        <component frequency="17">心/こころ?心/しん</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="3">人々/ひとびと</component>
+        <component frequency="2">僕/ぼく</component>
+        <component frequency="2">私/わたし</component>
+        <component frequency="2">自分/じぶん</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動8">
+      <argument case="ヲ格" closest="1">
+        <component frequency="9">相手/あいて</component>
+        <component frequency="5">敵/てき</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動9">
+      <argument case="ヲ格" closest="1">
+        <component frequency="16">姿/すがた</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動10">
+      <argument case="ヲ格" closest="1">
+        <component frequency="8">主義/しゅぎ</component>
+        <component frequency="7">信仰/しんこう</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="3">日本/にほん+人/じん?人/ひと</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動11">
+      <argument case="ヲ格" closest="1">
+        <component frequency="15" sm="1">&lt;数量&gt;</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動12">
+      <argument case="ヲ格" closest="1">
+        <component frequency="15">失敗/しっぱい</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動13">
+      <argument case="ヲ格" closest="1">
+        <component frequency="10">心配/しんぱい?心配だ/しんぱいだ</component>
+        <component frequency="5">不安/ふあんa</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="2">私/わたし</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動14">
+      <argument case="ヲ格" closest="1">
+        <component frequency="8">社会/しゃかい</component>
+        <component frequency="5">世界/せかい</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動15">
+      <argument case="ヲ格" closest="1">
+        <component frequency="14" sm="1">&lt;数量&gt;人/り?人/にん</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動16">
+      <argument case="ヲ格" closest="1">
+        <component frequency="14">評価/ひょうか</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動17">
+      <argument case="ヲ格" closest="1">
+        <component frequency="14">捜査/そうさ</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動18">
+      <argument case="ヲ格" closest="1">
+        <component frequency="13">言葉/ことば</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="2">彼/かれ</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動19">
+      <argument case="ヲ格" closest="1">
+        <component frequency="5">観客/かんきゃく</component>
+        <component frequency="5">客/きゃく</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動20">
+      <argument case="ヲ格" closest="1">
+        <component frequency="12">願い/ねがいv</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動21">
+      <argument case="ヲ格" closest="1">
+        <component frequency="10">他人/たにん</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動22">
+      <argument case="ヲ格" closest="1">
+        <component frequency="10">ＧＫ/ＧＫ</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動23">
+      <argument case="ヲ格" closest="1">
+        <component frequency="10">予想/よそう</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="2">私/わたし</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動24">
+      <argument case="ヲ格" closest="1">
+        <component frequency="10">不幸/ふこうa</component>
+      </argument>
+      <argument case="ノ格">
+        <component frequency="5">人/じん?人/ひと</component>
+        <component frequency="2">他人/たにん</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動25">
+      <argument case="ヲ格" closest="1">
+        <component frequency="9">日本/にほん</component>
+      </argument>
+    </caseframe>
+    <caseframe id="あざ笑う/あざわらう:動26">
+      <argument case="ヲ格" closest="1">
+        <component frequency="9">考え/かんがえv</component>
+      </argument>
+    </caseframe>
+  </entry>
+</caseframedata>

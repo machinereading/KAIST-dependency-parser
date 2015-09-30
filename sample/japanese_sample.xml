@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf8"?>
+<StandardFormat>
+  <Text Type="default">
+    <S Id="950101004-003">
+      <Annotation Scheme="KNP" tool="KNP:96/10/27" score="">
+        <phrase id="0" head="5" category="NONE" feature="&lt;文節:0-0&gt;" dpndtype="D">
+          <word id="0" content_p="1" str="ロシア" lem="ロシア" read="ろしあ" pos="名詞:地名" repname="ロシア/ろしあ" conj="" feature=""/>
+          <word id="1" content_p="0" str="側" lem="側" read="がわ" pos="接尾辞:名詞性名詞接尾辞" repname="側/がわ" conj="" feature=""/>
+          <word id="2" content_p="0" str="は" lem="は" read="は" pos="助詞:副助詞" repname="は/は" conj="" feature=""/>
+        </phrase>
+        <phrase id="1" head="2" category="NONE" feature="&lt;文節:1-2&gt;" dpndtype="D">
+          <word id="3" content_p="1" str="首都" lem="首都" read="しゅと" pos="名詞:普通名詞" repname="首都/しゅと" conj="" feature=""/>
+        </phrase>
+        <phrase id="2" head="4" category="NONE" feature="" dpndtype="D">
+          <word id="4" content_p="1" str="制圧" lem="制圧" read="せいあつ" pos="名詞:サ変名詞" repname="制圧/せいあつ" conj="" feature=""/>
+          <word id="5" content_p="0" str="の" lem="の" read="の" pos="助詞:接続助詞" repname="の/の" conj="" feature=""/>
+        </phrase>
+        <phrase id="3" head="4" category="NONE" feature="&lt;文節:3-4&gt;" dpndtype="D">
+          <word id="6" content_p="1" str="最終" lem="最終だ" read="さいしゅう" pos="形容詞" repname="最終だ/さいしゅうだ" conj="ナノ形容詞:語幹" feature=""/>
+        </phrase>
+        <phrase id="4" head="5" category="NONE" feature="" dpndtype="D">
+          <word id="7" content_p="1" str="段階" lem="段階" read="だんかい" pos="名詞:普通名詞" repname="段階/だんかい" conj="" feature=""/>
+          <word id="8" content_p="0" str="に" lem="に" read="に" pos="助詞:格助詞" repname="に/に" conj="" feature=""/>
+        </phrase>
+        <phrase id="5" head="6" category="NONE" feature="&lt;文節:5-5&gt;" dpndtype="D">
+          <word id="9" content_p="1" str="入った" lem="入る" read="はいった" pos="動詞" repname="入る/はいる" conj="子音動詞ラ行:タ形" feature=""/>
+          <word id="10" content_p="0" str="と" lem="と" read="と" pos="助詞:格助詞" repname="と/と" conj="" feature=""/>
+        </phrase>
+        <phrase id="6" head="-1" category="NONE" feature="&lt;文節:6-6&gt;" dpndtype="D">
+          <word id="11" content_p="1" str="み" lem="みる" read="み" pos="動詞" repname="みる/みる" conj="母音動詞:未然形" feature=""/>
+          <word id="12" content_p="0" str="られる" lem="られる" read="られる" pos="接尾辞:動詞性接尾辞" repname="られる/られる" conj="母音動詞:基本形" feature=""/>
+          <word id="13" content_p="0" str="。" lem="。" read="。" pos="特殊:句点" repname="。/。" conj="" feature=""/>
+        </phrase>
+      </Annotation>
+    </S>
+    <S Id="950101004-004">
+      <Annotation Scheme="KNP" tool="KNP:96/10/27" score="">
+        <phrase id="0" head="1" category="NONE" feature="&lt;文節:0-0&gt;" dpndtype="D">
+          <word id="0" content_p="1" str="グロズヌイ" lem="グロズヌイ" read="ぐろずぬい" pos="名詞:地名" repname="グロズヌイ/ぐろずぬい" conj="" feature=""/>
+          <word id="1" content_p="0" str="から" lem="から" read="から" pos="助詞:格助詞" repname="から/から" conj="" feature=""/>
+          <word id="2" content_p="0" str="の" lem="の" read="の" pos="助詞:接続助詞" repname="の/の" conj="" feature=""/>
+        </phrase>
+        <phrase id="1" head="15" category="NONE" feature="&lt;文節:1-1&gt;" dpndtype="D">
+          <word id="3" content_p="1" str="報道" lem="報道" read="ほうどう" pos="名詞:サ変名詞" repname="報道/ほうどう" conj="" feature=""/>
+          <word id="4" content_p="0" str="で" lem="で" read="で" pos="助詞:格助詞" repname="で/で" conj="" feature=""/>
+          <word id="5" content_p="0" str="は" lem="は" read="は" pos="助詞:副助詞" repname="は/は" conj="" feature=""/>
+          <word id="6" content_p="0" str="、" lem="、" read="、" pos="特殊:読点" repname="、/、" conj="" feature=""/>
+        </phrase>
+        <phrase id="2" head="3" category="NONE" feature="&lt;文節:2-3&gt;" dpndtype="D">
+          <word id="7" content_p="1" str="ロシア" lem="ロシア" read="ろしあ" pos="名詞:地名" repname="ロシア/ろしあ" conj="" feature=""/>
+        </phrase>
+        <phrase id="3" head="15" category="NONE" feature="" dpndtype="D">
+          <word id="8" content_p="1" str="軍" lem="軍" read="ぐん" pos="名詞:普通名詞" repname="軍/ぐん" conj="" feature=""/>
+          <word id="9" content_p="0" str="は" lem="は" read="は" pos="助詞:副助詞" repname="は/は" conj="" feature=""/>
+        </phrase>
+        <phrase id="4" head="6" category="NONE" feature="&lt;文節:4-4&gt;" dpndtype="D">
+          <word id="10" content_p="1" str="激しい" lem="激しい" read="はげしい" pos="形容詞" repname="激しい/はげしい" conj="イ形容詞イ段:基本形" feature=""/>
+        </phrase>
+        <phrase id="5" head="6" category="NONE" feature="&lt;文節:5-5&gt;" dpndtype="P">
+          <word id="11" content_p="1" str="空爆" lem="空爆" read="くうばく" pos="名詞:サ変名詞" repname="空爆/くうばく" conj="" feature=""/>
+          <word id="12" content_p="0" str="と" lem="と" read="と" pos="助詞:格助詞" repname="と/と" conj="" feature=""/>
+        </phrase>
+        <phrase id="6" head="7" category="NONE" feature="&lt;文節:6-6&gt;" dpndtype="D">
+          <word id="13" content_p="1" str="砲撃" lem="砲撃" read="ほうげき" pos="名詞:サ変名詞" repname="砲撃/ほうげき" conj="" feature=""/>
+          <word id="14" content_p="0" str="を" lem="を" read="を" pos="助詞:格助詞" repname="を/を" conj="" feature=""/>
+        </phrase>
+        <phrase id="7" head="8" category="NONE" feature="&lt;文節:7-7&gt;" dpndtype="D">
+          <word id="15" content_p="1" str="加えた" lem="加える" read="くわえた" pos="動詞" repname="加える/くわえる" conj="母音動詞:タ形" feature=""/>
+        </phrase>
+        <phrase id="8" head="15" category="NONE" feature="&lt;文節:8-8&gt;" dpndtype="D">
+          <word id="16" content_p="1" str="後" lem="後" read="あと" pos="名詞:副詞的名詞" repname="後/あと" conj="" feature=""/>
+          <word id="17" content_p="0" str="、" lem="、" read="、" pos="特殊:読点" repname="、/、" conj="" feature=""/>
+        </phrase>
+        <phrase id="9" head="10" category="NONE" feature="&lt;文節:9-11&gt;" dpndtype="D">
+          <word id="18" content_p="1" str="装甲" lem="装甲" read="そうこう" pos="名詞:サ変名詞" repname="装甲/そうこう" conj="" feature=""/>
+        </phrase>
+        <phrase id="10" head="11" category="NONE" feature="" dpndtype="D">
+          <word id="19" content_p="1" str="車" lem="車" read="しゃ" pos="名詞:普通名詞" repname="車/くるま" conj="" feature=""/>
+        </phrase>
+        <phrase id="11" head="15" category="NONE" feature="" dpndtype="D">
+          <word id="20" content_p="1" str="部隊" lem="部隊" read="ぶたい" pos="名詞:普通名詞" repname="部隊/ぶたい" conj="" feature=""/>
+          <word id="21" content_p="0" str="が" lem="が" read="が" pos="助詞:格助詞" repname="が/が" conj="" feature=""/>
+        </phrase>
+        <phrase id="12" head="13" category="NONE" feature="&lt;文節:12-14&gt;" dpndtype="D">
+          <word id="22" content_p="1" str="大統領" lem="大統領" read="だいとうりょう" pos="名詞:普通名詞" repname="大統領/だいとうりょう" conj="" feature=""/>
+        </phrase>
+        <phrase id="13" head="14" category="NONE" feature="" dpndtype="D">
+          <word id="23" content_p="1" str="官邸" lem="官邸" read="かんてい" pos="名詞:普通名詞" repname="官邸/かんてい" conj="" feature=""/>
+        </phrase>
+        <phrase id="14" head="15" category="NONE" feature="" dpndtype="D">
+          <word id="24" content_p="1" str="付近" lem="付近" read="ふきん" pos="名詞:普通名詞" repname="付近/ふきん" conj="" feature=""/>
+          <word id="25" content_p="0" str="に" lem="に" read="に" pos="助詞:格助詞" repname="に/に" conj="" feature=""/>
+        </phrase>
+        <phrase id="15" head="-1" category="NONE" feature="&lt;文節:15-15&gt;" dpndtype="D">
+          <word id="26" content_p="1" str="進出" lem="進出" read="しんしゅつ" pos="名詞:サ変名詞" repname="進出/しんしゅつ" conj="" feature=""/>
+          <word id="27" content_p="0" str="。" lem="。" read="。" pos="特殊:句点" repname="。/。" conj="" feature=""/>
+        </phrase>
+      </Annotation>
+    </S>
+  </Text>
+</StandardFormat>
