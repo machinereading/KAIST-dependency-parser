@@ -2,7 +2,7 @@
 
 ## Description
 
-soon
+This software is a dependency parser for Korean, based on KNP parser.
 
 ## How to use
 
